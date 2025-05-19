@@ -1,0 +1,1001 @@
+id,gender,birthday,Age,abonoment_type,visit_per_week,days_per_week,attend_group_lesson,fav_group_lesson,avg_time_check_in,avg_time_check_out,avg_time_in_gym,drink_abo,fav_drink,personal_training,name_personal_trainer,uses_sauna
+1,Female,1997-04-18,27,Premium,4,"Mon, Sat, Tue, Wed",TRUE,"Kickboxen, BodyPump, Zumba","07:31 PM","09:27 PM",116,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+2,Female,1977-09-18,47,Standard,3,"Mon, Sat, Wed",FALSE,"No Favorite Lesson","07:31 PM","08:19 PM",48,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+3,Male,1983-03-30,41,Premium,1,Sat,TRUE,XCore,"08:29 AM","10:32 AM",123,TRUE,"berry_boost, lemon",TRUE,Mike,FALSE
+4,Male,1980-04-12,44,Premium,3,"Sat, Tue, Wed",FALSE,"No Favorite Lesson","09:54 AM","11:33 AM",99,TRUE,passion_fruit,TRUE,Mike,TRUE
+5,Male,1980-09-10,44,Standard,2,"Thu, Wed",TRUE,"Running, Yoga, Zumba","08:29 AM","09:19 AM",50,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+6,Female,2009-06-29,15,Standard,1,Mon,FALSE,"No Favorite Lesson","05:19 PM","08:19 PM",180,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+7,Male,1994-08-07,30,Premium,3,"Sat, Thu, Wed",TRUE,"LesMiles, BodyPump","07:46 PM","08:48 PM",62,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+8,Male,2003-11-13,20,Standard,2,"Mon, Wed",TRUE,"Yoga, XCore","05:45 PM","07:20 PM",95,TRUE,coconut_pineapple,FALSE,"No Trainer",TRUE
+9,Male,1978-07-28,46,Premium,3,"Sat, Sun, Thu",TRUE,BodyPump,"09:45 AM","11:17 AM",92,TRUE,"orange, lemon",TRUE,Mike,FALSE
+10,Female,2000-05-06,24,Premium,1,Mon,FALSE,"No Favorite Lesson","01:05 PM","03:29 PM",144,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+11,Male,1983-07-11,41,Standard,1,Fri,FALSE,"No Favorite Lesson","01:50 PM","02:26 PM",36,FALSE,"No Favorite Drink",TRUE,Hanna,FALSE
+12,Male,1997-09-19,27,Premium,3,"Fri, Thu, Wed",TRUE,"Pilates, Zumba, XCore","10:12 AM","10:45 AM",33,TRUE,passion_fruit,TRUE,Mike,TRUE
+13,Female,1994-04-22,30,Standard,2,"Sun, Wed",TRUE,"XCore, HIT, Running","05:04 PM","07:42 PM",158,TRUE,passion_fruit,FALSE,"No Trainer",TRUE
+14,Female,1989-03-21,35,Premium,3,"Mon, Tue, Wed",FALSE,"No Favorite Lesson","07:50 PM","08:51 PM",61,TRUE,black_currant,FALSE,"No Trainer",FALSE
+15,Female,1989-10-01,35,Premium,1,Sat,FALSE,"No Favorite Lesson","08:12 PM","10:37 PM",145,TRUE,"orange, black_currant",TRUE,Mike,FALSE
+16,Female,1987-12-20,36,Standard,4,"Mon, Thu, Tue, Wed",TRUE,"Spinning, Zumba, XCore","05:28 PM","06:29 PM",61,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+17,Male,1986-12-17,37,Premium,3,"Fri, Sat, Sun",FALSE,"No Favorite Lesson","09:25 AM","12:06 PM",161,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+18,Female,2011-04-30,13,Standard,3,"Sat, Thu, Tue",FALSE,"No Favorite Lesson","04:54 PM","06:53 PM",119,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+19,Female,1986-05-29,38,Standard,1,Tue,TRUE,Pilates,"10:01 AM","12:48 PM",167,TRUE,orange,TRUE,Hanna,TRUE
+20,Male,1991-09-13,33,Premium,2,"Sat, Wed",TRUE,"BodyPump, Zumba, Pilates","01:55 PM","04:24 PM",149,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+21,Female,1997-12-31,26,Premium,2,"Fri, Mon",FALSE,"No Favorite Lesson","08:19 AM","10:45 AM",146,FALSE,"No Favorite Drink",TRUE,Hanna,FALSE
+22,Male,1997-10-29,26,Premium,3,"Fri, Mon, Sat",TRUE,"Yoga, BodyBalance, LesMiles","03:06 PM","05:40 PM",154,TRUE,lemon,FALSE,"No Trainer",TRUE
+23,Female,2010-10-22,13,Standard,2,"Mon, Tue",TRUE,HIT,"08:56 PM","11:36 PM",160,TRUE,"passion_fruit, orange",TRUE,Mike,FALSE
+24,Male,2010-01-24,14,Premium,3,"Sat, Tue, Wed",FALSE,"No Favorite Lesson","02:34 PM","04:33 PM",119,TRUE,"lemon, coconut_pineapple",TRUE,Jeffrey,TRUE
+25,Female,2008-10-04,16,Premium,1,Fri,FALSE,"No Favorite Lesson","08:42 AM","10:34 AM",112,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+26,Male,1989-06-17,35,Standard,1,Fri,TRUE,"BodyBalance, Zumba, Yoga","01:12 PM","02:54 PM",102,TRUE,coconut_pineapple,TRUE,Chantal,FALSE
+27,Male,2005-03-31,19,Premium,3,"Fri, Sun, Wed",TRUE,Zumba,"03:01 PM","04:59 PM",118,TRUE,"berry_boost, passion_fruit",FALSE,"No Trainer",FALSE
+28,Male,1992-04-10,32,Standard,5,"Fri, Sat, Sun, Tue, Wed",TRUE,"BodyBalance, Pilates, Running","07:41 PM","09:35 PM",114,TRUE,berry_boost,TRUE,Chantal,FALSE
+29,Female,1997-01-21,27,Premium,1,Wed,FALSE,"No Favorite Lesson","11:25 AM","12:56 PM",91,TRUE,orange,FALSE,"No Trainer",TRUE
+30,Female,2002-11-04,21,Premium,3,"Fri, Mon, Thu",TRUE,"Spinning, BodyPump, Zumba","08:15 PM","09:36 PM",81,TRUE,"orange, coconut_pineapple",FALSE,"No Trainer",TRUE
+31,Male,1988-03-04,36,Premium,3,"Sun, Thu, Wed",FALSE,"No Favorite Lesson","10:01 AM","12:11 PM",130,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+32,Male,2000-03-02,24,Standard,5,"Fri, Mon, Sat, Sun, Wed",FALSE,"No Favorite Lesson","08:53 PM","11:33 PM",160,TRUE,"black_currant, lemon",FALSE,"No Trainer",FALSE
+33,Female,1982-02-26,42,Premium,3,"Sat, Sun, Tue",TRUE,"LesMiles, HIT","10:23 AM","12:01 PM",98,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+34,Female,1976-12-07,47,Premium,2,"Mon, Sat",TRUE,"XCore, Running, BodyBalance","02:42 PM","04:08 PM",86,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+35,Male,2004-03-06,20,Premium,5,"Mon, Sun, Thu, Tue, Wed",FALSE,"No Favorite Lesson","06:15 PM","08:54 PM",159,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+36,Male,1990-03-09,34,Standard,3,"Sat, Sun, Tue",TRUE,XCore,"01:39 PM","04:20 PM",161,TRUE,orange,FALSE,"No Trainer",TRUE
+37,Female,1981-03-18,43,Standard,5,"Fri, Sat, Sun, Tue, Wed",FALSE,"No Favorite Lesson","09:02 AM","10:21 AM",79,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+38,Female,1983-11-01,40,Premium,2,"Sat, Thu",FALSE,"No Favorite Lesson","08:39 AM","10:37 AM",118,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+39,Male,1980-07-05,44,Premium,1,Wed,FALSE,"No Favorite Lesson","08:43 PM","10:58 PM",135,TRUE,"coconut_pineapple, berry_boost",FALSE,"No Trainer",FALSE
+40,Female,2006-01-19,18,Premium,2,"Mon, Tue",TRUE,LesMiles,"10:26 AM","12:13 PM",107,TRUE,"passion_fruit, black_currant",FALSE,"No Trainer",TRUE
+41,Female,2008-06-11,16,Premium,3,"Mon, Sun, Tue",FALSE,"No Favorite Lesson","04:04 PM","05:51 PM",107,TRUE,coconut_pineapple,TRUE,Hanna,TRUE
+42,Female,1989-07-08,35,Standard,1,Sun,FALSE,"No Favorite Lesson","09:38 AM","10:36 AM",58,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+43,Female,1995-06-26,29,Premium,1,Thu,TRUE,BodyBalance,"10:25 AM","12:04 PM",99,TRUE,"black_currant, lemon",TRUE,Chantal,FALSE
+44,Female,1996-04-05,28,Standard,1,Sun,FALSE,"No Favorite Lesson","11:49 AM","02:11 PM",142,TRUE,"coconut_pineapple, passion_fruit",TRUE,Hanna,TRUE
+45,Male,1976-01-19,48,Premium,2,"Tue, Wed",FALSE,"No Favorite Lesson","09:57 AM","12:35 PM",158,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+46,Female,1981-05-22,43,Standard,4,"Fri, Mon, Sat, Tue",TRUE,Spinning,"06:41 PM","09:36 PM",175,FALSE,"No Favorite Drink",TRUE,Hanna,FALSE
+47,Male,1989-03-04,35,Standard,3,"Sun, Tue, Wed",FALSE,"No Favorite Lesson","03:02 PM","04:29 PM",87,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+48,Male,1997-11-15,26,Premium,5,"Fri, Mon, Sun, Thu, Tue",TRUE,Yoga,"04:29 PM","06:45 PM",136,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+49,Female,1975-10-23,48,Premium,3,"Fri, Thu, Tue",TRUE,"Yoga, BodyBalance","11:56 AM","02:13 PM",137,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+50,Female,1979-12-29,44,Premium,2,"Sat, Tue",TRUE,"BodyPump, Zumba","08:54 AM","11:35 AM",161,TRUE,"black_currant, passion_fruit",FALSE,"No Trainer",TRUE
+51,Male,1979-07-17,45,Standard,3,"Mon, Sun, Thu",FALSE,"No Favorite Lesson","09:43 AM","11:16 AM",93,TRUE,"coconut_pineapple, passion_fruit",FALSE,"No Trainer",TRUE
+52,Male,1996-04-21,28,Premium,2,"Sat, Wed",TRUE,"BodyPump, Yoga","08:58 PM","10:20 PM",82,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+53,Female,2004-07-17,20,Premium,2,"Sun, Thu",TRUE,"BodyBalance, Running","09:26 AM","10:35 AM",69,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+54,Female,1980-11-27,43,Standard,4,"Fri, Mon, Sat, Thu",TRUE,Pilates,"08:36 PM","11:17 PM",161,TRUE,"orange, berry_boost",TRUE,Mike,FALSE
+55,Male,2000-01-04,24,Standard,2,"Sun, Thu",TRUE,"Spinning, Kickboxen, LesMiles","03:49 PM","06:31 PM",162,TRUE,black_currant,TRUE,Chantal,TRUE
+56,Male,2002-07-26,22,Standard,3,"Fri, Sun, Tue",FALSE,"No Favorite Lesson","05:13 PM","06:24 PM",71,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+57,Female,2001-06-12,23,Standard,3,"Sat, Thu, Wed",FALSE,"No Favorite Lesson","08:36 AM","11:18 AM",162,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+58,Male,1977-12-30,46,Premium,5,"Fri, Mon, Sat, Thu, Tue",TRUE,"BodyBalance, BodyPump","12:19 PM","12:49 PM",30,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+59,Male,2007-07-11,17,Premium,2,"Fri, Tue",TRUE,Kickboxen,"10:40 AM","12:06 PM",86,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+60,Female,1988-08-20,36,Standard,2,"Sat, Thu",TRUE,"XCore, Zumba","07:38 PM","09:40 PM",122,TRUE,orange,TRUE,Chantal,TRUE
+61,Female,1977-05-08,47,Premium,3,"Mon, Sun, Wed",FALSE,"No Favorite Lesson","06:30 PM","08:17 PM",107,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+62,Female,1995-05-13,29,Standard,3,"Sat, Tue, Wed",FALSE,"No Favorite Lesson","10:28 AM","11:36 AM",68,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+63,Male,1994-03-10,30,Standard,3,"Fri, Sun, Thu",FALSE,"No Favorite Lesson","05:22 PM","05:57 PM",35,TRUE,"passion_fruit, coconut_pineapple",FALSE,"No Trainer",TRUE
+64,Female,2002-05-16,22,Premium,3,"Fri, Sat, Sun",FALSE,"No Favorite Lesson","10:41 AM","11:38 AM",57,TRUE,"lemon, berry_boost",TRUE,Hanna,TRUE
+65,Female,1982-11-21,41,Standard,2,"Sun, Tue",FALSE,"No Favorite Lesson","01:55 PM","04:22 PM",147,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+66,Female,1979-03-27,45,Premium,4,"Fri, Thu, Tue, Wed",FALSE,"No Favorite Lesson","01:06 PM","01:54 PM",48,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+67,Female,2002-04-26,22,Premium,1,Sun,TRUE,Running,"08:18 AM","11:08 AM",170,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+68,Male,2004-07-16,20,Standard,5,"Mon, Sat, Sun, Thu, Wed",TRUE,Spinning,"01:04 PM","01:37 PM",33,TRUE,"berry_boost, coconut_pineapple",TRUE,Mike,TRUE
+69,Male,1990-12-12,33,Premium,1,Wed,TRUE,Zumba,"09:04 AM","09:47 AM",43,TRUE,passion_fruit,FALSE,"No Trainer",FALSE
+70,Female,1988-08-01,36,Premium,3,"Fri, Sun, Tue",FALSE,"No Favorite Lesson","11:11 AM","01:56 PM",165,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+71,Male,1994-09-21,30,Premium,5,"Fri, Mon, Sat, Sun, Tue",TRUE,BodyPump,"01:04 PM","01:58 PM",54,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+72,Male,2007-03-13,17,Premium,1,Wed,FALSE,"No Favorite Lesson","10:30 AM","01:27 PM",177,TRUE,black_currant,TRUE,Mike,TRUE
+73,Male,1988-12-31,35,Premium,2,"Mon, Tue",FALSE,"No Favorite Lesson","05:06 PM","06:39 PM",93,TRUE,berry_boost,TRUE,Chantal,FALSE
+74,Male,1995-12-16,28,Standard,2,"Fri, Sun",FALSE,"No Favorite Lesson","08:17 PM","11:03 PM",166,TRUE,passion_fruit,FALSE,"No Trainer",TRUE
+75,Female,1996-11-30,27,Standard,5,"Fri, Mon, Sat, Thu, Tue",FALSE,"No Favorite Lesson","09:57 AM","12:22 PM",145,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+76,Male,2004-06-09,20,Premium,1,Sun,FALSE,"No Favorite Lesson","03:33 PM","05:01 PM",88,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+77,Female,2007-04-19,17,Premium,2,"Mon, Tue",FALSE,"No Favorite Lesson","03:54 PM","04:46 PM",52,FALSE,"No Favorite Drink",TRUE,Hanna,FALSE
+78,Male,1990-10-24,33,Premium,2,"Mon, Sun",TRUE,"Zumba, Spinning, BodyBalance","04:16 PM","06:03 PM",107,TRUE,berry_boost,TRUE,Mike,FALSE
+79,Female,1981-04-24,43,Standard,5,"Fri, Sat, Thu, Tue, Wed",TRUE,XCore,"12:44 PM","03:44 PM",180,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+80,Female,1988-09-23,36,Standard,2,"Fri, Tue",TRUE,"Yoga, LesMiles, Spinning","06:19 PM","08:02 PM",103,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+81,Male,1978-10-15,45,Standard,2,"Mon, Sat",FALSE,"No Favorite Lesson","12:35 PM","03:18 PM",163,TRUE,berry_boost,TRUE,Mike,TRUE
+82,Male,1981-11-06,42,Standard,3,"Sun, Thu, Wed",TRUE,"Running, Kickboxen","06:55 PM","09:00 PM",125,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+83,Male,1995-04-02,29,Premium,1,Mon,FALSE,"No Favorite Lesson","08:33 AM","09:57 AM",84,TRUE,coconut_pineapple,FALSE,"No Trainer",FALSE
+84,Male,2006-07-30,18,Standard,3,"Sun, Thu, Tue",TRUE,"Yoga, HIT","09:15 AM","10:04 AM",49,TRUE,"black_currant, lemon",FALSE,"No Trainer",FALSE
+85,Female,1992-04-27,32,Premium,2,"Sat, Sun",TRUE,HIT,"07:07 PM","10:00 PM",173,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+86,Female,1997-02-09,27,Standard,3,"Mon, Sun, Tue",TRUE,"BodyPump, BodyBalance, XCore","08:29 PM","09:35 PM",66,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+87,Male,1977-06-27,47,Premium,3,"Fri, Sat, Tue",TRUE,"Kickboxen, HIT, BodyPump","12:51 PM","02:37 PM",106,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+88,Female,2008-10-05,16,Premium,2,"Sat, Sun",FALSE,"No Favorite Lesson","11:29 AM","01:03 PM",94,TRUE,"passion_fruit, black_currant",FALSE,"No Trainer",TRUE
+89,Female,1984-12-21,39,Standard,4,"Fri, Mon, Sat, Wed",TRUE,Yoga,"10:34 AM","11:27 AM",53,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+90,Female,1978-08-24,46,Standard,1,Sat,FALSE,"No Favorite Lesson","11:13 AM","01:19 PM",126,TRUE,"lemon, berry_boost",FALSE,"No Trainer",TRUE
+91,Female,2003-03-08,21,Premium,3,"Mon, Sat, Sun",FALSE,"No Favorite Lesson","01:04 PM","02:21 PM",77,TRUE,berry_boost,FALSE,"No Trainer",FALSE
+92,Male,1993-08-17,31,Standard,1,Sun,TRUE,Running,"02:37 PM","03:25 PM",48,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+93,Female,1984-06-06,40,Standard,4,"Mon, Sat, Sun, Wed",TRUE,"BodyPump, Spinning, Pilates","09:55 AM","10:43 AM",48,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+94,Female,1983-06-03,41,Standard,2,"Tue, Wed",TRUE,"BodyPump, Spinning, HIT","04:43 PM","06:46 PM",123,TRUE,coconut_pineapple,TRUE,Chantal,TRUE
+95,Female,2012-05-10,12,Standard,3,"Fri, Thu, Wed",TRUE,BodyBalance,"10:10 AM","12:50 PM",160,TRUE,berry_boost,FALSE,"No Trainer",TRUE
+96,Male,1984-04-10,40,Standard,1,Sat,FALSE,"No Favorite Lesson","10:28 AM","01:25 PM",177,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+97,Male,1995-03-24,29,Premium,3,"Fri, Sun, Wed",FALSE,"No Favorite Lesson","02:16 PM","05:08 PM",172,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+98,Male,2005-09-18,19,Premium,2,"Sat, Tue",FALSE,"No Favorite Lesson","04:57 PM","06:54 PM",117,TRUE,coconut_pineapple,TRUE,Jeffrey,FALSE
+99,Female,1990-03-23,34,Premium,2,"Fri, Mon",FALSE,"No Favorite Lesson","09:35 AM","12:00 PM",145,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+100,Female,2003-02-08,21,Premium,3,"Mon, Sat, Wed",FALSE,"No Favorite Lesson","08:34 AM","10:00 AM",86,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+101,Male,1980-05-18,44,Standard,3,"Sat, Sun, Wed",TRUE,HIT,"10:11 AM","11:30 AM",79,TRUE,black_currant,TRUE,Jeffrey,TRUE
+102,Female,2000-02-15,24,Standard,3,"Fri, Mon, Sun",TRUE,BodyPump,"05:42 PM","08:02 PM",140,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+103,Male,1990-11-06,33,Standard,5,"Fri, Sat, Sun, Thu, Wed",TRUE,"Pilates, BodyBalance","10:29 AM","11:18 AM",49,TRUE,lemon,TRUE,Chantal,FALSE
+104,Female,1976-12-20,47,Premium,2,"Sat, Tue",FALSE,"No Favorite Lesson","01:19 PM","02:50 PM",91,TRUE,coconut_pineapple,TRUE,Mike,TRUE
+105,Female,1986-03-15,38,Premium,1,Mon,TRUE,"BodyPump, Zumba","09:51 AM","10:33 AM",42,TRUE,"passion_fruit, berry_boost",TRUE,Mike,TRUE
+106,Male,2012-08-28,12,Premium,3,"Fri, Sun, Thu",TRUE,"Pilates, LesMiles","07:57 PM","09:28 PM",91,TRUE,"orange, black_currant",FALSE,"No Trainer",FALSE
+107,Female,2003-07-22,21,Standard,2,"Fri, Mon",FALSE,"No Favorite Lesson","08:13 PM","09:48 PM",95,TRUE,coconut_pineapple,FALSE,"No Trainer",FALSE
+108,Female,2002-03-05,22,Standard,3,"Sat, Sun, Thu",TRUE,"Running, Kickboxen, BodyBalance","07:52 PM","08:46 PM",54,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+109,Female,1991-03-27,33,Premium,1,Thu,FALSE,"No Favorite Lesson","02:02 PM","03:29 PM",87,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+110,Female,2004-03-01,20,Premium,2,"Fri, Wed",TRUE,Pilates,"05:52 PM","08:41 PM",169,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+111,Female,1994-02-01,30,Standard,3,"Sat, Sun, Wed",TRUE,"HIT, LesMiles","05:43 PM","06:23 PM",40,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+112,Male,2009-03-06,15,Standard,3,"Fri, Sun, Wed",TRUE,"Pilates, BodyBalance, HIT","04:33 PM","07:09 PM",156,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+113,Female,1977-07-31,47,Premium,1,Sun,FALSE,"No Favorite Lesson","04:23 PM","06:07 PM",104,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+114,Female,1994-06-18,30,Premium,3,"Sun, Thu, Tue",FALSE,"No Favorite Lesson","01:51 PM","04:13 PM",142,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+115,Female,2010-09-16,14,Premium,3,"Sat, Sun, Tue",FALSE,"No Favorite Lesson","02:36 PM","03:11 PM",35,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+116,Male,1991-03-17,33,Premium,4,"Fri, Thu, Tue, Wed",FALSE,"No Favorite Lesson","07:08 PM","10:06 PM",178,TRUE,orange,FALSE,"No Trainer",TRUE
+117,Male,1975-04-04,49,Standard,1,Tue,TRUE,Pilates,"06:02 PM","06:44 PM",42,TRUE,"berry_boost, lemon",FALSE,"No Trainer",FALSE
+118,Male,1983-12-28,40,Standard,5,"Sat, Sun, Thu, Tue, Wed",FALSE,"No Favorite Lesson","08:23 AM","09:19 AM",56,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+119,Male,1978-07-07,46,Premium,3,"Mon, Sun, Wed",TRUE,"HIT, BodyPump","01:30 PM","02:37 PM",67,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+120,Female,1984-05-06,40,Standard,3,"Fri, Tue, Wed",FALSE,"No Favorite Lesson","02:55 PM","05:18 PM",143,TRUE,passion_fruit,TRUE,Chantal,TRUE
+121,Female,2002-03-30,22,Premium,2,"Sun, Thu",TRUE,"BodyPump, Yoga, Pilates","07:19 PM","08:52 PM",93,TRUE,"lemon, black_currant",FALSE,"No Trainer",FALSE
+122,Female,1981-07-02,43,Premium,1,Fri,TRUE,Kickboxen,"08:09 PM","09:57 PM",108,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+123,Female,1990-10-28,33,Standard,3,"Mon, Sat, Thu",FALSE,"No Favorite Lesson","09:46 AM","12:17 PM",151,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+124,Female,2010-07-29,14,Premium,3,"Fri, Sat, Wed",FALSE,"No Favorite Lesson","02:40 PM","03:53 PM",73,FALSE,"No Favorite Drink",TRUE,Hanna,FALSE
+125,Male,2010-04-20,14,Standard,3,"Sat, Sun, Tue",FALSE,"No Favorite Lesson","02:09 PM","04:34 PM",145,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+126,Male,2009-10-16,14,Standard,3,"Mon, Sat, Thu",FALSE,"No Favorite Lesson","08:40 AM","10:15 AM",95,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+127,Female,2004-12-16,19,Standard,3,"Fri, Thu, Tue",FALSE,"No Favorite Lesson","10:58 AM","12:22 PM",84,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+128,Female,1992-02-27,32,Premium,3,"Fri, Sun, Thu",FALSE,"No Favorite Lesson","02:23 PM","03:48 PM",85,TRUE,"passion_fruit, orange",FALSE,"No Trainer",FALSE
+129,Male,1977-03-30,47,Premium,1,Sun,TRUE,"Running, BodyBalance","12:24 PM","01:14 PM",50,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+130,Male,1981-05-27,43,Premium,2,"Sat, Tue",FALSE,"No Favorite Lesson","07:40 PM","10:32 PM",172,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+131,Male,1989-11-17,34,Standard,3,"Fri, Thu, Tue",FALSE,"No Favorite Lesson","03:41 PM","05:04 PM",83,TRUE,"lemon, passion_fruit",TRUE,Hanna,FALSE
+132,Male,2003-03-19,21,Premium,1,Wed,FALSE,"No Favorite Lesson","06:11 PM","08:51 PM",160,TRUE,orange,TRUE,Hanna,TRUE
+133,Male,1997-04-26,27,Premium,2,"Fri, Tue",TRUE,Zumba,"11:35 AM","01:34 PM",119,TRUE,orange,FALSE,"No Trainer",TRUE
+134,Female,1993-08-20,31,Premium,5,"Fri, Mon, Sat, Thu, Wed",TRUE,"Spinning, BodyPump","09:31 AM","11:06 AM",95,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+135,Female,2003-05-19,21,Standard,2,"Sun, Thu",FALSE,"No Favorite Lesson","01:05 PM","02:45 PM",100,TRUE,passion_fruit,TRUE,Mike,FALSE
+136,Female,2009-06-30,15,Standard,2,"Mon, Tue",FALSE,"No Favorite Lesson","04:51 PM","07:45 PM",174,TRUE,coconut_pineapple,FALSE,"No Trainer",FALSE
+137,Female,2004-09-18,20,Premium,3,"Sat, Sun, Thu",FALSE,"No Favorite Lesson","10:32 AM","11:09 AM",37,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+138,Male,1988-04-10,36,Standard,1,Tue,FALSE,"No Favorite Lesson","08:55 PM","10:44 PM",109,TRUE,lemon,FALSE,"No Trainer",TRUE
+139,Female,1993-04-07,31,Standard,5,"Fri, Sun, Thu, Tue, Wed",FALSE,"No Favorite Lesson","07:28 PM","08:10 PM",42,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+140,Female,2010-02-25,14,Standard,2,"Mon, Wed",TRUE,"Spinning, Kickboxen, Zumba","10:33 AM","12:57 PM",144,TRUE,"lemon, orange",FALSE,"No Trainer",TRUE
+141,Male,1984-05-28,40,Premium,3,"Mon, Thu, Tue",TRUE,"LesMiles, HIT","07:59 PM","09:04 PM",65,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+142,Female,2002-03-07,22,Standard,5,"Fri, Sat, Sun, Tue, Wed",TRUE,"Running, BodyPump, XCore","08:13 AM","09:46 AM",93,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+143,Female,2008-03-19,16,Premium,3,"Fri, Sun, Wed",FALSE,"No Favorite Lesson","05:21 PM","06:46 PM",85,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+144,Male,1975-03-11,49,Premium,3,"Fri, Thu, Wed",TRUE,"XCore, Zumba, LesMiles","08:30 PM","09:24 PM",54,TRUE,passion_fruit,TRUE,Jeffrey,TRUE
+145,Female,2010-06-21,14,Premium,3,"Sat, Sun, Wed",FALSE,"No Favorite Lesson","10:11 AM","11:56 AM",105,TRUE,"lemon, passion_fruit",FALSE,"No Trainer",TRUE
+146,Female,2010-08-20,14,Standard,5,"Fri, Sat, Sun, Thu, Tue",TRUE,"XCore, Yoga, LesMiles","08:23 PM","09:30 PM",67,TRUE,"black_currant, passion_fruit",TRUE,Mike,TRUE
+147,Male,1988-03-17,36,Standard,3,"Fri, Sat, Tue",TRUE,"Running, Yoga, Pilates","06:19 PM","07:47 PM",88,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+148,Male,1988-03-22,36,Premium,2,"Mon, Sat",TRUE,"BodyPump, Kickboxen, Zumba","09:08 AM","11:19 AM",131,TRUE,"orange, berry_boost",TRUE,Mike,FALSE
+149,Male,1998-06-29,26,Standard,2,"Sat, Thu",FALSE,"No Favorite Lesson","05:57 PM","08:08 PM",131,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+150,Male,2005-06-27,19,Premium,1,Sat,FALSE,"No Favorite Lesson","04:10 PM","05:20 PM",70,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+151,Male,1995-02-02,29,Premium,2,"Fri, Mon",TRUE,"Pilates, HIT","08:15 PM","10:05 PM",110,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+152,Male,1997-09-25,27,Premium,2,"Thu, Wed",FALSE,"No Favorite Lesson","08:44 PM","09:57 PM",73,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+153,Male,1977-07-22,47,Premium,2,"Fri, Tue",TRUE,"Running, BodyPump","04:41 PM","06:02 PM",81,TRUE,"passion_fruit, orange",TRUE,Chantal,TRUE
+154,Male,1985-03-16,39,Standard,2,"Tue, Wed",TRUE,"Kickboxen, BodyPump","11:18 AM","01:28 PM",130,TRUE,"lemon, black_currant",TRUE,Mike,FALSE
+155,Male,1977-08-27,47,Standard,1,Fri,FALSE,"No Favorite Lesson","02:41 PM","03:21 PM",40,TRUE,orange,TRUE,Hanna,FALSE
+156,Female,2004-02-01,20,Premium,2,"Fri, Sat",FALSE,"No Favorite Lesson","06:54 PM","07:37 PM",43,TRUE,passion_fruit,TRUE,Chantal,TRUE
+157,Female,2004-08-30,20,Standard,4,"Fri, Thu, Tue, Wed",FALSE,"No Favorite Lesson","11:51 AM","02:21 PM",150,TRUE,passion_fruit,TRUE,Jeffrey,FALSE
+158,Male,2002-02-02,22,Standard,2,"Fri, Sat",FALSE,"No Favorite Lesson","02:12 PM","04:43 PM",151,TRUE,orange,TRUE,Mike,TRUE
+159,Female,2002-06-03,22,Standard,3,"Sat, Sun, Wed",TRUE,"Kickboxen, HIT","05:57 PM","07:46 PM",109,FALSE,"No Favorite Drink",TRUE,Hanna,FALSE
+160,Female,2000-03-19,24,Premium,3,"Mon, Thu, Wed",TRUE,"BodyBalance, Kickboxen, Spinning","03:17 PM","04:04 PM",47,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+161,Female,2006-12-22,17,Standard,3,"Sat, Thu, Tue",TRUE,XCore,"03:41 PM","04:58 PM",77,TRUE,"berry_boost, lemon",TRUE,Chantal,FALSE
+162,Male,1995-01-27,29,Standard,1,Sun,FALSE,"No Favorite Lesson","05:00 PM","06:33 PM",93,TRUE,lemon,FALSE,"No Trainer",TRUE
+163,Male,1987-11-24,36,Premium,3,"Sat, Thu, Wed",FALSE,"No Favorite Lesson","08:42 AM","11:31 AM",169,TRUE,berry_boost,TRUE,Jeffrey,TRUE
+164,Male,2004-01-29,20,Standard,5,"Mon, Sat, Thu, Tue, Wed",FALSE,"No Favorite Lesson","05:41 PM","08:22 PM",161,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+165,Male,1995-05-22,29,Standard,2,"Fri, Sat",TRUE,Zumba,"02:45 PM","05:41 PM",176,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+166,Male,1992-09-19,32,Premium,3,"Sat, Tue, Wed",FALSE,"No Favorite Lesson","08:34 PM","09:40 PM",66,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+167,Female,1981-10-15,42,Premium,4,"Fri, Mon, Thu, Tue",TRUE,Running,"09:55 AM","10:59 AM",64,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+168,Male,2010-10-05,14,Standard,3,"Mon, Sun, Thu",TRUE,"Running, BodyBalance, Kickboxen","12:27 PM","02:16 PM",109,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+169,Female,1988-11-28,35,Premium,3,"Fri, Thu, Tue",TRUE,"Kickboxen, Spinning, BodyPump","01:32 PM","04:19 PM",167,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+170,Male,1981-07-29,43,Standard,3,"Fri, Sun, Tue",FALSE,"No Favorite Lesson","12:12 PM","01:08 PM",56,TRUE,"passion_fruit, lemon",TRUE,Mike,FALSE
+171,Female,1987-08-22,37,Standard,1,Sun,FALSE,"No Favorite Lesson","04:39 PM","07:05 PM",146,TRUE,lemon,TRUE,Hanna,FALSE
+172,Female,1975-07-05,49,Standard,5,"Sat, Sun, Thu, Tue, Wed",TRUE,Pilates,"08:15 AM","08:50 AM",35,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+173,Male,1977-07-27,47,Standard,2,"Sun, Thu",FALSE,"No Favorite Lesson","04:55 PM","07:13 PM",138,TRUE,black_currant,FALSE,"No Trainer",TRUE
+174,Male,1975-03-17,49,Premium,1,Sat,FALSE,"No Favorite Lesson","11:21 AM","12:46 PM",85,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+175,Male,2005-09-22,19,Standard,2,"Mon, Tue",TRUE,Yoga,"02:01 PM","03:56 PM",115,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+176,Male,1976-02-24,48,Standard,4,"Fri, Thu, Tue, Wed",FALSE,"No Favorite Lesson","09:34 AM","10:11 AM",37,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+177,Female,2001-01-29,23,Premium,3,"Mon, Sun, Thu",FALSE,"No Favorite Lesson","09:56 AM","11:20 AM",84,TRUE,"berry_boost, coconut_pineapple",TRUE,Chantal,FALSE
+178,Male,2000-11-18,23,Premium,4,"Fri, Mon, Thu, Wed",FALSE,"No Favorite Lesson","11:02 AM","11:44 AM",42,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+179,Female,2010-11-25,13,Standard,2,"Mon, Tue",FALSE,"No Favorite Lesson","05:27 PM","07:12 PM",105,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+180,Male,1976-06-20,48,Premium,3,"Fri, Sat, Thu",TRUE,"Kickboxen, Running, LesMiles","08:33 AM","10:13 AM",100,TRUE,passion_fruit,TRUE,Jeffrey,TRUE
+181,Male,1996-12-20,27,Premium,5,"Mon, Sat, Sun, Thu, Tue",TRUE,"Kickboxen, XCore","10:50 AM","01:38 PM",168,TRUE,"lemon, black_currant",FALSE,"No Trainer",TRUE
+182,Female,2010-02-16,14,Standard,3,"Mon, Sun, Wed",TRUE,XCore,"09:01 AM","11:57 AM",176,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+183,Male,2010-07-14,14,Premium,1,Fri,FALSE,"No Favorite Lesson","01:06 PM","02:29 PM",83,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+184,Male,2006-10-16,17,Standard,1,Mon,FALSE,"No Favorite Lesson","05:58 PM","08:04 PM",126,FALSE,"No Favorite Drink",TRUE,Hanna,FALSE
+185,Male,1985-09-18,39,Standard,2,"Mon, Tue",TRUE,"Running, XCore","09:20 AM","09:52 AM",32,TRUE,berry_boost,FALSE,"No Trainer",FALSE
+186,Female,1975-03-24,49,Standard,3,"Fri, Sun, Wed",FALSE,"No Favorite Lesson","05:42 PM","07:00 PM",78,TRUE,passion_fruit,TRUE,Mike,TRUE
+187,Male,2012-04-17,12,Standard,5,"Fri, Sat, Sun, Thu, Wed",TRUE,"Pilates, Kickboxen, BodyPump","07:49 PM","10:15 PM",146,TRUE,"lemon, orange",TRUE,Mike,FALSE
+188,Female,1987-02-28,37,Premium,1,Sat,TRUE,Yoga,"08:21 AM","08:55 AM",34,TRUE,"lemon, coconut_pineapple",FALSE,"No Trainer",FALSE
+189,Male,1987-11-12,36,Premium,2,"Fri, Tue",TRUE,"Spinning, XCore","11:28 AM","02:14 PM",166,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+190,Male,2011-09-08,13,Standard,4,"Sat, Sun, Thu, Tue",FALSE,"No Favorite Lesson","02:47 PM","03:21 PM",34,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+191,Male,1992-10-23,31,Premium,2,"Mon, Wed",FALSE,"No Favorite Lesson","01:48 PM","04:42 PM",174,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+192,Female,1985-07-11,39,Standard,4,"Mon, Sat, Sun, Thu",FALSE,"No Favorite Lesson","05:07 PM","05:55 PM",48,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+193,Female,2012-06-09,12,Premium,3,"Sun, Thu, Tue",TRUE,"Zumba, BodyPump, XCore","01:57 PM","03:10 PM",73,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+194,Female,2001-08-15,23,Premium,1,Tue,FALSE,"No Favorite Lesson","04:54 PM","07:49 PM",175,TRUE,"passion_fruit, berry_boost",FALSE,"No Trainer",FALSE
+195,Male,1979-04-24,45,Premium,2,"Mon, Wed",FALSE,"No Favorite Lesson","11:23 AM","01:41 PM",138,TRUE,"black_currant, coconut_pineapple",FALSE,"No Trainer",TRUE
+196,Male,1985-02-09,39,Premium,5,"Fri, Mon, Sat, Thu, Wed",FALSE,"No Favorite Lesson","08:01 PM","09:08 PM",67,TRUE,lemon,TRUE,Jeffrey,FALSE
+197,Male,2010-03-26,14,Standard,2,"Mon, Tue",FALSE,"No Favorite Lesson","01:53 PM","04:06 PM",133,TRUE,"coconut_pineapple, black_currant",TRUE,Mike,FALSE
+198,Male,1994-08-05,30,Premium,3,"Fri, Sun, Wed",TRUE,"BodyPump, Yoga","01:00 PM","03:43 PM",163,TRUE,coconut_pineapple,TRUE,Jeffrey,TRUE
+199,Female,2009-01-06,15,Premium,3,"Mon, Thu, Tue",FALSE,"No Favorite Lesson","09:55 AM","11:07 AM",72,TRUE,coconut_pineapple,TRUE,Jeffrey,TRUE
+200,Male,2012-08-31,12,Standard,1,Tue,FALSE,"No Favorite Lesson","03:47 PM","04:28 PM",41,TRUE,"orange, passion_fruit",TRUE,Jeffrey,TRUE
+201,Male,1978-09-29,46,Standard,4,"Fri, Mon, Sat, Wed",TRUE,"HIT, XCore, Kickboxen","01:31 PM","03:47 PM",136,TRUE,"black_currant, coconut_pineapple",TRUE,Mike,FALSE
+202,Male,1975-05-25,49,Premium,4,"Mon, Sat, Tue, Wed",FALSE,"No Favorite Lesson","08:21 AM","08:52 AM",31,TRUE,black_currant,FALSE,"No Trainer",FALSE
+203,Female,1980-12-20,43,Premium,2,"Mon, Sun",FALSE,"No Favorite Lesson","06:32 PM","08:54 PM",142,TRUE,"passion_fruit, coconut_pineapple",TRUE,Chantal,TRUE
+204,Male,2005-02-18,19,Premium,2,"Thu, Wed",TRUE,LesMiles,"05:13 PM","07:26 PM",133,TRUE,orange,TRUE,Jeffrey,FALSE
+205,Male,1982-05-29,42,Premium,3,"Fri, Sat, Thu",FALSE,"No Favorite Lesson","09:57 AM","12:50 PM",173,TRUE,lemon,TRUE,Chantal,FALSE
+206,Male,1978-03-21,46,Standard,1,Sun,TRUE,Zumba,"06:06 PM","08:49 PM",163,TRUE,"berry_boost, black_currant",FALSE,"No Trainer",FALSE
+207,Male,2006-06-20,18,Standard,3,"Fri, Mon, Thu",TRUE,"Running, BodyPump","11:47 AM","02:00 PM",133,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+208,Male,1983-01-02,41,Premium,1,Thu,TRUE,"Running, HIT","11:28 AM","01:10 PM",102,TRUE,"lemon, coconut_pineapple",TRUE,Jeffrey,TRUE
+209,Male,2005-09-11,19,Premium,4,"Fri, Mon, Tue, Wed",FALSE,"No Favorite Lesson","07:07 PM","08:06 PM",59,TRUE,coconut_pineapple,TRUE,Hanna,FALSE
+210,Male,2007-08-21,17,Premium,2,"Fri, Sun",FALSE,"No Favorite Lesson","05:44 PM","06:20 PM",36,TRUE,lemon,TRUE,Chantal,FALSE
+211,Female,1997-03-26,27,Standard,2,"Mon, Tue",TRUE,Pilates,"09:10 AM","11:36 AM",146,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+212,Male,1999-01-22,25,Premium,3,"Sat, Sun, Tue",FALSE,"No Favorite Lesson","05:21 PM","06:17 PM",56,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+213,Male,2001-07-18,23,Premium,2,"Mon, Sun",TRUE,"XCore, Zumba","12:58 PM","03:46 PM",168,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+214,Female,1989-01-01,35,Standard,1,Wed,FALSE,"No Favorite Lesson","08:34 AM","09:27 AM",53,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+215,Female,1985-12-14,38,Standard,3,"Fri, Thu, Wed",TRUE,Yoga,"08:17 AM","10:38 AM",141,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+216,Male,1975-04-11,49,Premium,3,"Fri, Mon, Wed",FALSE,"No Favorite Lesson","12:37 PM","01:15 PM",38,TRUE,lemon,TRUE,Mike,FALSE
+217,Male,1990-06-16,34,Standard,1,Sun,FALSE,"No Favorite Lesson","12:42 PM","01:21 PM",39,TRUE,coconut_pineapple,TRUE,Jeffrey,TRUE
+218,Female,1978-01-12,46,Premium,3,"Sun, Thu, Wed",TRUE,BodyPump,"06:01 PM","06:36 PM",35,TRUE,"coconut_pineapple, passion_fruit",FALSE,"No Trainer",FALSE
+219,Male,1979-06-18,45,Standard,5,"Fri, Mon, Sun, Tue, Wed",TRUE,"Spinning, BodyBalance, BodyPump","02:59 PM","04:59 PM",120,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+220,Male,1987-11-12,36,Premium,5,"Fri, Mon, Sun, Thu, Tue",FALSE,"No Favorite Lesson","08:57 PM","10:15 PM",78,TRUE,lemon,TRUE,Mike,FALSE
+221,Male,1979-03-05,45,Premium,2,"Sun, Tue",FALSE,"No Favorite Lesson","12:13 PM","02:47 PM",154,TRUE,passion_fruit,TRUE,Chantal,TRUE
+222,Male,1975-04-08,49,Premium,3,"Fri, Sun, Thu",TRUE,"Pilates, XCore, Spinning","08:01 PM","10:34 PM",153,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+223,Male,2005-10-05,19,Standard,5,"Fri, Mon, Sun, Thu, Tue",FALSE,"No Favorite Lesson","08:23 PM","09:52 PM",89,TRUE,coconut_pineapple,FALSE,"No Trainer",FALSE
+224,Female,2000-07-30,24,Standard,2,"Fri, Mon",FALSE,"No Favorite Lesson","08:41 PM","10:29 PM",108,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+225,Male,2000-09-30,24,Standard,3,"Fri, Mon, Sun",FALSE,"No Favorite Lesson","08:08 PM","10:44 PM",156,TRUE,orange,FALSE,"No Trainer",FALSE
+226,Male,1993-07-30,31,Standard,1,Thu,FALSE,"No Favorite Lesson","03:01 PM","05:43 PM",162,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+227,Female,1976-10-01,48,Premium,3,"Mon, Sat, Tue",TRUE,"XCore, BodyPump","08:37 PM","09:48 PM",71,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+228,Male,2007-03-05,17,Premium,1,Mon,TRUE,"Spinning, HIT","07:05 PM","09:55 PM",170,TRUE,"berry_boost, orange",TRUE,Chantal,FALSE
+229,Male,1993-03-26,31,Premium,5,"Sat, Sun, Thu, Tue, Wed",FALSE,"No Favorite Lesson","08:39 PM","09:35 PM",56,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+230,Male,2001-10-22,22,Standard,3,"Fri, Sun, Wed",TRUE,Yoga,"04:31 PM","06:39 PM",128,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+231,Male,1986-11-23,37,Premium,3,"Fri, Sat, Sun",FALSE,"No Favorite Lesson","05:53 PM","08:14 PM",141,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+232,Male,1985-08-24,39,Standard,5,"Fri, Mon, Sat, Thu, Wed",TRUE,"XCore, Pilates","03:16 PM","05:15 PM",119,TRUE,lemon,TRUE,Mike,FALSE
+233,Female,2010-09-29,14,Standard,3,"Sat, Sun, Tue",FALSE,"No Favorite Lesson","08:34 AM","10:49 AM",135,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+234,Female,2005-09-10,19,Standard,1,Sun,FALSE,"No Favorite Lesson","08:26 PM","09:45 PM",79,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+235,Female,1997-07-21,27,Standard,4,"Sun, Thu, Tue, Wed",FALSE,"No Favorite Lesson","11:49 AM","02:25 PM",156,TRUE,"lemon, black_currant",TRUE,Hanna,FALSE
+236,Female,1989-04-08,35,Standard,5,"Fri, Sat, Thu, Tue, Wed",TRUE,BodyPump,"03:45 PM","06:43 PM",178,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+237,Female,2005-01-09,19,Premium,2,"Tue, Wed",TRUE,Spinning,"10:32 AM","12:03 PM",91,TRUE,coconut_pineapple,TRUE,Jeffrey,TRUE
+238,Female,2003-06-25,21,Premium,5,"Fri, Mon, Sat, Sun, Thu",TRUE,"Pilates, BodyPump, BodyBalance","08:15 PM","11:14 PM",179,TRUE,"coconut_pineapple, passion_fruit",FALSE,"No Trainer",TRUE
+239,Male,2003-10-27,20,Standard,3,"Fri, Mon, Thu",TRUE,"Zumba, Yoga, Pilates","05:30 PM","07:17 PM",107,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+240,Male,2005-01-03,19,Premium,4,"Sat, Sun, Tue, Wed",TRUE,"Kickboxen, Running","03:49 PM","05:10 PM",81,TRUE,passion_fruit,FALSE,"No Trainer",FALSE
+241,Female,1981-10-31,42,Premium,2,"Mon, Wed",FALSE,"No Favorite Lesson","11:03 AM","01:34 PM",151,TRUE,passion_fruit,TRUE,Hanna,FALSE
+242,Male,2006-08-02,18,Premium,1,Wed,FALSE,"No Favorite Lesson","05:38 PM","06:10 PM",32,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+243,Female,1975-08-16,49,Premium,1,Sun,FALSE,"No Favorite Lesson","01:58 PM","02:35 PM",37,TRUE,berry_boost,TRUE,Mike,FALSE
+244,Female,2007-10-11,17,Premium,5,"Fri, Mon, Sat, Sun, Wed",TRUE,Yoga,"01:50 PM","02:29 PM",39,TRUE,lemon,TRUE,Hanna,TRUE
+245,Male,1997-08-06,27,Standard,1,Mon,TRUE,"Kickboxen, BodyPump, Zumba","12:11 PM","02:52 PM",161,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+246,Female,2000-09-17,24,Premium,4,"Sun, Thu, Tue, Wed",FALSE,"No Favorite Lesson","09:12 AM","11:17 AM",125,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+247,Male,1987-04-19,37,Standard,4,"Fri, Sat, Thu, Wed",TRUE,"BodyBalance, Running, Yoga","06:44 PM","08:56 PM",132,TRUE,coconut_pineapple,FALSE,"No Trainer",TRUE
+248,Female,2000-08-17,24,Premium,1,Sun,FALSE,"No Favorite Lesson","02:59 PM","05:17 PM",138,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+249,Female,1995-11-14,28,Premium,5,"Fri, Mon, Sat, Sun, Wed",TRUE,"Zumba, HIT","06:00 PM","07:56 PM",116,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+250,Male,2006-08-27,18,Standard,3,"Fri, Mon, Sun",FALSE,"No Favorite Lesson","01:26 PM","04:15 PM",169,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+251,Male,2006-06-21,18,Standard,2,"Fri, Thu",TRUE,"Yoga, Pilates, BodyPump","08:05 AM","09:23 AM",78,TRUE,black_currant,FALSE,"No Trainer",FALSE
+252,Female,1992-05-28,32,Premium,5,"Fri, Mon, Thu, Tue, Wed",TRUE,"BodyBalance, Zumba","10:17 AM","01:05 PM",168,TRUE,berry_boost,FALSE,"No Trainer",FALSE
+253,Male,1983-10-27,40,Premium,2,"Fri, Tue",TRUE,"Yoga, HIT","02:33 PM","03:40 PM",67,TRUE,lemon,TRUE,Jeffrey,FALSE
+254,Male,2003-10-27,20,Standard,4,"Fri, Mon, Sun, Wed",FALSE,"No Favorite Lesson","05:12 PM","06:19 PM",67,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+255,Male,2003-04-14,21,Premium,1,Sun,TRUE,"Kickboxen, BodyBalance, LesMiles","02:34 PM","03:04 PM",30,TRUE,coconut_pineapple,TRUE,Mike,TRUE
+256,Female,1985-12-18,38,Premium,1,Sat,TRUE,Pilates,"05:37 PM","06:39 PM",62,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+257,Male,1979-03-28,45,Standard,2,"Mon, Wed",TRUE,"XCore, HIT, Kickboxen","08:12 AM","10:09 AM",117,TRUE,"coconut_pineapple, black_currant",FALSE,"No Trainer",FALSE
+258,Male,2001-12-21,22,Standard,2,"Sat, Thu",FALSE,"No Favorite Lesson","07:49 PM","08:33 PM",44,TRUE,"black_currant, passion_fruit",FALSE,"No Trainer",TRUE
+259,Female,2007-05-08,17,Premium,5,"Fri, Sun, Thu, Tue, Wed",FALSE,"No Favorite Lesson","10:02 AM","12:17 PM",135,TRUE,lemon,TRUE,Chantal,FALSE
+260,Female,1992-05-24,32,Standard,5,"Mon, Sat, Sun, Thu, Tue",FALSE,"No Favorite Lesson","08:20 AM","10:44 AM",144,TRUE,coconut_pineapple,FALSE,"No Trainer",FALSE
+261,Male,1980-10-02,44,Standard,2,"Thu, Tue",FALSE,"No Favorite Lesson","12:01 PM","02:07 PM",126,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+262,Female,1977-05-27,47,Premium,2,"Mon, Sat",TRUE,"Yoga, Pilates","08:39 AM","09:38 AM",59,TRUE,black_currant,TRUE,Chantal,TRUE
+263,Female,1981-03-19,43,Standard,1,Thu,FALSE,"No Favorite Lesson","08:17 AM","09:08 AM",51,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+264,Male,1976-07-05,48,Standard,5,"Fri, Mon, Sat, Sun, Thu",FALSE,"No Favorite Lesson","03:42 PM","06:35 PM",173,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+265,Female,1992-07-30,32,Standard,5,"Fri, Sun, Thu, Tue, Wed",FALSE,"No Favorite Lesson","07:52 PM","09:17 PM",85,TRUE,black_currant,TRUE,Mike,TRUE
+266,Female,1987-02-06,37,Standard,3,"Mon, Tue, Wed",TRUE,"Zumba, BodyBalance","06:07 PM","08:01 PM",114,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+267,Female,1988-05-12,36,Standard,5,"Fri, Mon, Sat, Sun, Tue",FALSE,"No Favorite Lesson","11:33 AM","12:40 PM",67,TRUE,coconut_pineapple,FALSE,"No Trainer",TRUE
+268,Male,2001-12-03,22,Premium,4,"Fri, Mon, Sat, Thu",FALSE,"No Favorite Lesson","06:08 PM","08:37 PM",149,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+269,Male,1987-10-07,37,Premium,2,"Fri, Thu",FALSE,"No Favorite Lesson","09:59 AM","10:41 AM",42,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+270,Male,1985-03-01,39,Standard,3,"Sat, Thu, Wed",TRUE,"BodyPump, Running, Yoga","03:19 PM","05:35 PM",136,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+271,Male,1976-12-28,47,Standard,3,"Fri, Mon, Sun",FALSE,"No Favorite Lesson","10:08 AM","11:02 AM",54,FALSE,"No Favorite Drink",TRUE,Hanna,FALSE
+272,Male,1975-01-12,49,Premium,2,"Fri, Tue",TRUE,Yoga,"01:20 PM","02:26 PM",66,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+273,Male,1996-12-27,27,Standard,2,"Sun, Thu",FALSE,"No Favorite Lesson","11:23 AM","01:00 PM",97,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+274,Female,1980-04-03,44,Standard,2,"Fri, Sun",TRUE,"Pilates, Zumba, Running","07:30 PM","10:04 PM",154,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+275,Male,2011-06-09,13,Standard,2,"Fri, Tue",FALSE,"No Favorite Lesson","09:38 AM","10:11 AM",33,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+276,Male,2010-04-02,14,Standard,2,"Thu, Tue",TRUE,LesMiles,"11:21 AM","02:18 PM",177,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+277,Female,1999-04-25,25,Standard,2,"Thu, Wed",FALSE,"No Favorite Lesson","10:38 AM","12:32 PM",114,TRUE,coconut_pineapple,TRUE,Hanna,FALSE
+278,Male,1992-02-03,32,Premium,2,"Fri, Sun",TRUE,Yoga,"01:19 PM","02:52 PM",93,TRUE,"lemon, black_currant",TRUE,Mike,TRUE
+279,Female,1994-10-15,29,Standard,4,"Fri, Mon, Sun, Wed",FALSE,"No Favorite Lesson","10:43 AM","11:52 AM",69,TRUE,lemon,TRUE,Hanna,FALSE
+280,Male,1983-01-24,41,Standard,2,"Fri, Thu",TRUE,"Pilates, Yoga","10:29 AM","12:37 PM",128,TRUE,"coconut_pineapple, orange",TRUE,Chantal,TRUE
+281,Male,2003-06-01,21,Premium,2,"Fri, Mon",TRUE,"Pilates, XCore, Kickboxen","03:40 PM","04:47 PM",67,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+282,Male,1999-07-06,25,Standard,5,"Mon, Sat, Sun, Thu, Wed",TRUE,"Zumba, BodyPump","12:25 PM","01:40 PM",75,TRUE,black_currant,FALSE,"No Trainer",TRUE
+283,Female,2002-12-16,21,Premium,2,"Fri, Sat",TRUE,LesMiles,"02:55 PM","03:28 PM",33,TRUE,berry_boost,TRUE,Mike,FALSE
+284,Female,2010-12-21,13,Standard,2,"Mon, Sat",FALSE,"No Favorite Lesson","12:52 PM","02:03 PM",71,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+285,Male,1976-06-08,48,Premium,4,"Mon, Sun, Thu, Wed",FALSE,"No Favorite Lesson","01:33 PM","02:08 PM",35,TRUE,lemon,FALSE,"No Trainer",FALSE
+286,Male,2004-01-23,20,Premium,5,"Fri, Mon, Sat, Sun, Tue",FALSE,"No Favorite Lesson","08:16 PM","09:52 PM",96,TRUE,"black_currant, coconut_pineapple",TRUE,Mike,FALSE
+287,Male,1987-10-07,37,Premium,2,"Fri, Thu",TRUE,"BodyPump, Yoga","07:39 PM","08:39 PM",60,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+288,Male,1982-06-12,42,Premium,5,"Fri, Mon, Sat, Thu, Tue",FALSE,"No Favorite Lesson","05:30 PM","08:15 PM",165,TRUE,coconut_pineapple,FALSE,"No Trainer",TRUE
+289,Female,2004-04-19,20,Premium,3,"Mon, Sat, Tue",TRUE,"Zumba, Kickboxen","08:53 AM","11:11 AM",138,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+290,Female,1998-05-05,26,Standard,2,"Sun, Tue",TRUE,"XCore, BodyPump","03:52 PM","06:05 PM",133,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+291,Female,1982-04-24,42,Premium,5,"Fri, Sat, Sun, Thu, Wed",FALSE,"No Favorite Lesson","09:49 AM","12:43 PM",174,TRUE,berry_boost,FALSE,"No Trainer",TRUE
+292,Male,2007-07-26,17,Standard,1,Fri,FALSE,"No Favorite Lesson","04:59 PM","06:41 PM",102,TRUE,"passion_fruit, black_currant",FALSE,"No Trainer",FALSE
+293,Female,1998-05-04,26,Premium,1,Thu,TRUE,"Yoga, Kickboxen","04:31 PM","05:47 PM",76,TRUE,"lemon, passion_fruit",TRUE,Hanna,TRUE
+294,Female,1983-09-02,41,Premium,1,Wed,TRUE,Yoga,"01:14 PM","03:34 PM",140,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+295,Male,1988-10-09,36,Standard,3,"Fri, Thu, Wed",FALSE,"No Favorite Lesson","03:28 PM","05:57 PM",149,TRUE,"coconut_pineapple, orange",FALSE,"No Trainer",FALSE
+296,Female,2000-12-30,23,Standard,4,"Fri, Sun, Thu, Wed",FALSE,"No Favorite Lesson","10:17 AM","12:21 PM",124,TRUE,"lemon, passion_fruit",FALSE,"No Trainer",TRUE
+297,Male,1994-05-09,30,Standard,5,"Fri, Mon, Sun, Thu, Wed",FALSE,"No Favorite Lesson","05:29 PM","06:25 PM",56,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+298,Female,1990-04-09,34,Premium,2,"Mon, Sun",FALSE,"No Favorite Lesson","07:17 PM","08:30 PM",73,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+299,Female,1981-03-27,43,Premium,5,"Fri, Sat, Sun, Tue, Wed",FALSE,"No Favorite Lesson","12:31 PM","02:11 PM",100,TRUE,"orange, passion_fruit",TRUE,Mike,FALSE
+300,Male,2011-07-09,13,Premium,3,"Mon, Sat, Wed",TRUE,"Spinning, XCore, LesMiles","02:53 PM","03:55 PM",62,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+301,Female,2001-04-14,23,Premium,3,"Fri, Sat, Thu",TRUE,"Kickboxen, LesMiles, Yoga","01:06 PM","02:35 PM",89,TRUE,"coconut_pineapple, orange",TRUE,Chantal,FALSE
+302,Male,1979-01-03,45,Standard,3,"Fri, Tue, Wed",TRUE,BodyPump,"12:48 PM","03:24 PM",156,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+303,Female,1982-01-23,42,Standard,3,"Sun, Thu, Wed",FALSE,"No Favorite Lesson","01:32 PM","02:56 PM",84,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+304,Male,1988-12-28,35,Standard,1,Sat,FALSE,"No Favorite Lesson","01:53 PM","02:33 PM",40,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+305,Male,1998-08-02,26,Standard,4,"Sat, Sun, Thu, Wed",TRUE,"Spinning, Running, LesMiles","08:48 AM","10:35 AM",107,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+306,Male,2003-10-28,20,Standard,2,"Fri, Sun",TRUE,"Running, LesMiles, Yoga","11:47 AM","02:10 PM",143,TRUE,lemon,TRUE,Chantal,TRUE
+307,Female,1992-04-06,32,Standard,3,"Mon, Sun, Wed",FALSE,"No Favorite Lesson","05:30 PM","08:14 PM",164,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+308,Female,1993-07-02,31,Premium,4,"Fri, Mon, Sat, Thu",FALSE,"No Favorite Lesson","11:54 AM","01:21 PM",87,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+309,Male,1995-06-28,29,Standard,3,"Mon, Sat, Thu",FALSE,"No Favorite Lesson","03:05 PM","04:19 PM",74,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+310,Male,1990-02-08,34,Standard,2,"Mon, Sun",TRUE,"BodyPump, Pilates, Running","07:18 PM","07:53 PM",35,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+311,Female,1980-07-20,44,Standard,1,Mon,FALSE,"No Favorite Lesson","05:41 PM","06:15 PM",34,TRUE,"lemon, orange",TRUE,Chantal,FALSE
+312,Male,2002-06-03,22,Premium,5,"Fri, Sat, Thu, Tue, Wed",TRUE,LesMiles,"05:41 PM","07:31 PM",110,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+313,Male,1975-12-28,48,Standard,1,Tue,TRUE,"BodyPump, HIT","07:29 PM","10:21 PM",172,TRUE,"passion_fruit, coconut_pineapple",FALSE,"No Trainer",TRUE
+314,Male,1988-03-06,36,Standard,1,Sun,FALSE,"No Favorite Lesson","07:20 PM","09:58 PM",158,TRUE,coconut_pineapple,FALSE,"No Trainer",FALSE
+315,Male,2008-02-29,16,Premium,1,Tue,TRUE,"XCore, Spinning, BodyPump","08:38 AM","10:25 AM",107,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+316,Male,2009-12-28,14,Standard,3,"Fri, Tue, Wed",FALSE,"No Favorite Lesson","08:52 PM","10:02 PM",70,TRUE,"coconut_pineapple, lemon",TRUE,Chantal,TRUE
+317,Male,1988-09-27,36,Premium,3,"Mon, Sat, Thu",FALSE,"No Favorite Lesson","11:06 AM","11:44 AM",38,TRUE,berry_boost,TRUE,Chantal,FALSE
+318,Male,1984-05-18,40,Premium,2,"Sun, Thu",FALSE,"No Favorite Lesson","11:37 AM","02:23 PM",166,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+319,Male,1992-06-01,32,Premium,3,"Sat, Sun, Wed",FALSE,"No Favorite Lesson","10:38 AM","01:05 PM",147,TRUE,"lemon, black_currant",FALSE,"No Trainer",FALSE
+320,Female,2012-01-23,12,Standard,5,"Mon, Sat, Sun, Thu, Wed",TRUE,"HIT, Zumba","09:36 AM","12:09 PM",153,TRUE,"lemon, berry_boost",TRUE,Chantal,TRUE
+321,Male,1998-04-22,26,Premium,3,"Sat, Thu, Tue",FALSE,"No Favorite Lesson","02:11 PM","03:11 PM",60,TRUE,"passion_fruit, coconut_pineapple",FALSE,"No Trainer",FALSE
+322,Male,2000-11-03,23,Standard,2,"Fri, Sat",FALSE,"No Favorite Lesson","08:18 PM","08:55 PM",37,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+323,Male,1998-06-19,26,Premium,5,"Mon, Sat, Sun, Thu, Wed",TRUE,Running,"05:11 PM","06:02 PM",51,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+324,Female,1994-07-14,30,Standard,3,"Fri, Thu, Wed",TRUE,Pilates,"07:16 PM","08:15 PM",59,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+325,Male,1995-02-19,29,Standard,3,"Fri, Sat, Wed",FALSE,"No Favorite Lesson","10:34 AM","11:13 AM",39,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+326,Female,1977-07-03,47,Standard,3,"Mon, Sun, Tue",FALSE,"No Favorite Lesson","06:24 PM","07:13 PM",49,TRUE,"coconut_pineapple, lemon",FALSE,"No Trainer",FALSE
+327,Female,2011-09-21,13,Standard,3,"Mon, Sun, Thu",FALSE,"No Favorite Lesson","02:01 PM","04:23 PM",142,TRUE,passion_fruit,FALSE,"No Trainer",TRUE
+328,Female,2002-09-30,22,Standard,5,"Fri, Mon, Sun, Tue, Wed",FALSE,"No Favorite Lesson","01:52 PM","02:43 PM",51,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+329,Male,1991-06-30,33,Premium,4,"Fri, Sat, Sun, Tue",TRUE,Running,"09:15 AM","10:04 AM",49,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+330,Female,1997-08-13,27,Standard,2,"Sat, Thu",FALSE,"No Favorite Lesson","11:43 AM","02:26 PM",163,TRUE,passion_fruit,FALSE,"No Trainer",TRUE
+331,Female,1989-08-06,35,Premium,2,"Mon, Wed",TRUE,"Kickboxen, LesMiles","04:36 PM","05:42 PM",66,TRUE,passion_fruit,FALSE,"No Trainer",FALSE
+332,Female,2003-02-22,21,Premium,3,"Fri, Sat, Wed",TRUE,XCore,"08:22 PM","09:59 PM",97,TRUE,passion_fruit,FALSE,"No Trainer",TRUE
+333,Male,1984-06-13,40,Premium,3,"Fri, Sun, Tue",FALSE,"No Favorite Lesson","11:18 AM","02:09 PM",171,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+334,Male,2009-07-02,15,Standard,3,"Mon, Sat, Sun",FALSE,"No Favorite Lesson","05:29 PM","06:03 PM",34,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+335,Female,2000-11-21,23,Premium,3,"Mon, Sat, Sun",FALSE,"No Favorite Lesson","01:42 PM","02:33 PM",51,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+336,Female,1975-03-02,49,Standard,1,Wed,TRUE,"Running, Zumba, LesMiles","10:40 AM","11:24 AM",44,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+337,Male,1982-04-13,42,Premium,2,"Fri, Mon",FALSE,"No Favorite Lesson","06:22 PM","08:18 PM",116,TRUE,"orange, black_currant",TRUE,Chantal,FALSE
+338,Male,1997-10-04,27,Premium,3,"Mon, Thu, Wed",TRUE,"Zumba, HIT","10:06 AM","11:38 AM",92,TRUE,"coconut_pineapple, passion_fruit",FALSE,"No Trainer",FALSE
+339,Female,1983-09-04,41,Standard,3,"Sun, Thu, Wed",TRUE,"XCore, Pilates, HIT","03:40 PM","05:21 PM",101,TRUE,"passion_fruit, orange",TRUE,Chantal,FALSE
+340,Male,2002-03-22,22,Premium,3,"Sat, Thu, Tue",TRUE,"HIT, Kickboxen, Zumba","06:51 PM","09:17 PM",146,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+341,Female,1988-05-16,36,Standard,4,"Fri, Mon, Thu, Wed",FALSE,"No Favorite Lesson","02:02 PM","04:28 PM",146,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+342,Male,1998-08-11,26,Standard,5,"Fri, Sat, Sun, Tue, Wed",TRUE,HIT,"05:57 PM","07:05 PM",68,TRUE,coconut_pineapple,TRUE,Jeffrey,TRUE
+343,Female,2005-10-07,19,Premium,5,"Fri, Sat, Thu, Tue, Wed",TRUE,"Running, HIT, Kickboxen","09:53 AM","12:49 PM",176,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+344,Female,1986-10-10,38,Standard,4,"Fri, Mon, Sun, Thu",TRUE,HIT,"12:50 PM","02:19 PM",89,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+345,Male,1985-08-18,39,Standard,2,"Mon, Sat",FALSE,"No Favorite Lesson","02:30 PM","04:14 PM",104,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+346,Female,1981-07-18,43,Premium,3,"Mon, Sat, Thu",TRUE,"Kickboxen, LesMiles","12:17 PM","03:09 PM",172,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+347,Female,1985-10-08,39,Standard,3,"Mon, Tue, Wed",FALSE,"No Favorite Lesson","04:51 PM","06:36 PM",105,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+348,Male,2003-07-02,21,Standard,3,"Sat, Sun, Tue",FALSE,"No Favorite Lesson","12:59 PM","01:48 PM",49,TRUE,"orange, berry_boost",FALSE,"No Trainer",FALSE
+349,Female,1985-06-18,39,Standard,2,"Sun, Thu",FALSE,"No Favorite Lesson","12:53 PM","02:54 PM",121,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+350,Female,1988-11-21,35,Standard,2,"Fri, Mon",TRUE,"Pilates, XCore","04:20 PM","05:21 PM",61,TRUE,passion_fruit,TRUE,Jeffrey,FALSE
+351,Male,1988-10-30,35,Standard,1,Fri,TRUE,"BodyBalance, LesMiles","07:27 PM","10:03 PM",156,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+352,Female,1993-03-02,31,Standard,1,Wed,TRUE,"Spinning, Running","09:42 AM","12:25 PM",163,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+353,Female,2009-05-31,15,Premium,2,"Fri, Mon",FALSE,"No Favorite Lesson","01:37 PM","02:50 PM",73,TRUE,berry_boost,TRUE,Mike,TRUE
+354,Female,1980-06-05,44,Premium,2,"Fri, Mon",TRUE,BodyBalance,"05:13 PM","06:15 PM",62,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+355,Male,1987-02-13,37,Standard,1,Mon,TRUE,"BodyBalance, Running","04:45 PM","06:58 PM",133,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+356,Male,1992-05-13,32,Standard,1,Sat,TRUE,"Pilates, XCore","06:44 PM","07:28 PM",44,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+357,Female,2007-09-16,17,Standard,2,"Fri, Sun",TRUE,LesMiles,"08:55 PM","10:18 PM",83,TRUE,"lemon, orange",FALSE,"No Trainer",FALSE
+358,Female,1987-07-27,37,Standard,1,Tue,TRUE,XCore,"06:06 PM","07:59 PM",113,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+359,Female,1999-02-05,25,Standard,3,"Fri, Sun, Tue",FALSE,"No Favorite Lesson","03:21 PM","04:26 PM",65,FALSE,"No Favorite Drink",TRUE,Hanna,FALSE
+360,Female,1992-05-02,32,Standard,2,"Sat, Wed",TRUE,"LesMiles, BodyPump, Kickboxen","05:04 PM","07:46 PM",162,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+361,Female,1980-05-14,44,Standard,5,"Fri, Sun, Thu, Tue, Wed",TRUE,Running,"08:04 PM","10:29 PM",145,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+362,Female,1987-06-28,37,Premium,4,"Fri, Mon, Thu, Tue",TRUE,"Pilates, Zumba, Kickboxen","11:51 AM","01:57 PM",126,TRUE,"passion_fruit, lemon",FALSE,"No Trainer",FALSE
+363,Male,2007-02-25,17,Standard,1,Tue,TRUE,"Running, Zumba","12:17 PM","03:14 PM",177,TRUE,"lemon, berry_boost",TRUE,Chantal,FALSE
+364,Female,1990-06-27,34,Standard,3,"Sat, Thu, Wed",TRUE,"Spinning, BodyBalance, Yoga","10:47 AM","12:03 PM",76,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+365,Female,2003-09-24,21,Premium,2,"Mon, Wed",TRUE,"Kickboxen, HIT, Spinning","06:40 PM","09:21 PM",161,TRUE,passion_fruit,TRUE,Hanna,TRUE
+366,Male,1980-06-04,44,Standard,3,"Fri, Mon, Tue",FALSE,"No Favorite Lesson","10:31 AM","12:28 PM",117,TRUE,coconut_pineapple,TRUE,Chantal,FALSE
+367,Female,1996-02-26,28,Standard,2,"Thu, Tue",TRUE,"XCore, Yoga","08:22 PM","10:56 PM",154,TRUE,"lemon, black_currant",FALSE,"No Trainer",FALSE
+368,Male,2001-07-09,23,Premium,1,Sun,TRUE,BodyBalance,"08:41 PM","11:00 PM",139,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+369,Male,1995-05-09,29,Premium,1,Mon,TRUE,HIT,"05:22 PM","06:42 PM",80,TRUE,black_currant,TRUE,Jeffrey,TRUE
+370,Female,1996-01-05,28,Premium,1,Tue,TRUE,"Spinning, LesMiles, Yoga","01:08 PM","02:35 PM",87,TRUE,black_currant,TRUE,Hanna,TRUE
+371,Male,2003-05-25,21,Premium,2,"Mon, Wed",FALSE,"No Favorite Lesson","08:10 PM","09:56 PM",106,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+372,Female,1978-10-10,46,Premium,5,"Fri, Sun, Thu, Tue, Wed",TRUE,"Running, BodyPump","11:18 AM","02:06 PM",168,TRUE,"coconut_pineapple, black_currant",TRUE,Jeffrey,TRUE
+373,Female,1991-08-26,33,Premium,2,"Sat, Sun",TRUE,"BodyBalance, Pilates, LesMiles","08:52 AM","11:07 AM",135,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+374,Female,1984-12-16,39,Premium,2,"Sun, Tue",TRUE,"HIT, Pilates","05:43 PM","06:36 PM",53,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+375,Male,1998-12-14,25,Premium,2,"Fri, Mon",FALSE,"No Favorite Lesson","04:54 PM","06:20 PM",86,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+376,Female,1995-07-29,29,Premium,3,"Sat, Sun, Thu",TRUE,"BodyPump, LesMiles","08:16 PM","11:04 PM",168,TRUE,"berry_boost, orange",FALSE,"No Trainer",FALSE
+377,Male,1990-10-13,34,Premium,3,"Fri, Tue, Wed",FALSE,"No Favorite Lesson","02:36 PM","03:56 PM",80,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+378,Male,1984-08-22,40,Premium,2,"Sat, Thu",TRUE,Running,"06:52 PM","07:42 PM",50,TRUE,lemon,FALSE,"No Trainer",TRUE
+379,Female,2010-03-07,14,Premium,3,"Sun, Thu, Tue",FALSE,"No Favorite Lesson","08:29 AM","10:35 AM",126,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+380,Male,1981-06-02,43,Standard,1,Wed,FALSE,"No Favorite Lesson","07:38 PM","08:56 PM",78,TRUE,berry_boost,FALSE,"No Trainer",FALSE
+381,Male,1998-07-25,26,Premium,5,"Fri, Mon, Sun, Tue, Wed",FALSE,"No Favorite Lesson","06:01 PM","06:43 PM",42,TRUE,"lemon, coconut_pineapple",FALSE,"No Trainer",FALSE
+382,Male,1978-12-06,45,Premium,2,"Mon, Wed",TRUE,"HIT, Spinning","02:20 PM","05:20 PM",180,TRUE,black_currant,TRUE,Hanna,TRUE
+383,Female,1998-08-28,26,Standard,2,"Sat, Thu",FALSE,"No Favorite Lesson","08:26 PM","09:25 PM",59,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+384,Female,1998-06-12,26,Premium,3,"Sat, Thu, Tue",TRUE,"BodyBalance, Pilates, Kickboxen","05:35 PM","06:31 PM",56,TRUE,"coconut_pineapple, black_currant",FALSE,"No Trainer",TRUE
+385,Female,2008-01-12,16,Premium,3,"Sun, Thu, Wed",TRUE,"LesMiles, HIT, Pilates","12:45 PM","02:42 PM",117,TRUE,"orange, lemon",TRUE,Hanna,FALSE
+386,Male,1975-06-09,49,Premium,1,Fri,TRUE,"Kickboxen, BodyBalance","01:06 PM","02:29 PM",83,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+387,Male,1998-09-03,26,Premium,2,"Tue, Wed",TRUE,XCore,"07:08 PM","09:19 PM",131,TRUE,black_currant,TRUE,Jeffrey,TRUE
+388,Male,2005-03-17,19,Standard,2,"Fri, Sat",TRUE,"LesMiles, Kickboxen","08:23 PM","09:49 PM",86,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+389,Female,1990-06-11,34,Premium,1,Thu,TRUE,"Spinning, BodyBalance","05:57 PM","07:46 PM",109,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+390,Female,2012-09-12,12,Standard,3,"Mon, Sat, Tue",FALSE,"No Favorite Lesson","08:59 AM","10:26 AM",87,FALSE,"No Favorite Drink",TRUE,Hanna,FALSE
+391,Female,1998-02-06,26,Standard,5,"Fri, Mon, Sat, Thu, Tue",FALSE,"No Favorite Lesson","01:34 PM","03:19 PM",105,TRUE,"passion_fruit, berry_boost",FALSE,"No Trainer",TRUE
+392,Female,1985-05-18,39,Standard,2,"Thu, Wed",TRUE,"Spinning, Yoga","08:25 AM","10:10 AM",105,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+393,Female,1983-08-28,41,Standard,4,"Mon, Sun, Tue, Wed",TRUE,"XCore, Spinning","10:09 AM","10:57 AM",48,TRUE,"coconut_pineapple, passion_fruit",FALSE,"No Trainer",FALSE
+394,Female,2007-05-14,17,Premium,2,"Fri, Tue",FALSE,"No Favorite Lesson","09:30 AM","12:24 PM",174,TRUE,black_currant,TRUE,Hanna,TRUE
+395,Female,1995-10-27,28,Standard,3,"Sat, Thu, Wed",FALSE,"No Favorite Lesson","07:59 PM","08:40 PM",41,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+396,Female,1986-11-13,37,Premium,3,"Sat, Sun, Wed",FALSE,"No Favorite Lesson","01:08 PM","01:56 PM",48,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+397,Female,1991-06-18,33,Standard,3,"Fri, Sat, Sun",FALSE,"No Favorite Lesson","08:47 AM","09:52 AM",65,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+398,Female,1979-06-28,45,Premium,2,"Mon, Thu",TRUE,"LesMiles, Yoga, Zumba","10:37 AM","01:10 PM",153,TRUE,"coconut_pineapple, lemon",TRUE,Hanna,TRUE
+399,Male,2007-03-09,17,Premium,2,"Fri, Sat",FALSE,"No Favorite Lesson","08:38 AM","11:24 AM",166,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+400,Male,1994-11-14,29,Standard,3,"Fri, Sat, Thu",TRUE,Kickboxen,"01:02 PM","02:08 PM",66,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+401,Female,2004-10-11,20,Premium,1,Wed,FALSE,"No Favorite Lesson","05:52 PM","06:49 PM",57,TRUE,black_currant,TRUE,Hanna,TRUE
+402,Female,2007-06-21,17,Premium,2,"Fri, Thu",TRUE,"LesMiles, Pilates, Yoga","04:58 PM","07:40 PM",162,TRUE,orange,FALSE,"No Trainer",TRUE
+403,Female,2007-12-04,16,Premium,3,"Sat, Sun, Tue",FALSE,"No Favorite Lesson","03:15 PM","03:46 PM",31,TRUE,passion_fruit,TRUE,Chantal,FALSE
+404,Female,2009-08-09,15,Premium,3,"Fri, Sat, Wed",TRUE,"Kickboxen, Zumba","11:02 AM","11:38 AM",36,TRUE,"berry_boost, black_currant",TRUE,Chantal,TRUE
+405,Male,1997-04-05,27,Premium,2,"Mon, Sun",TRUE,"LesMiles, Yoga, Spinning","04:35 PM","06:56 PM",141,TRUE,lemon,TRUE,Jeffrey,FALSE
+406,Female,1998-06-11,26,Standard,4,"Mon, Sat, Thu, Wed",TRUE,"Pilates, Spinning","01:03 PM","03:39 PM",156,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+407,Female,2002-09-28,22,Standard,3,"Sat, Thu, Tue",TRUE,"LesMiles, Pilates","05:29 PM","07:06 PM",97,TRUE,"lemon, black_currant",FALSE,"No Trainer",FALSE
+408,Male,2001-12-23,22,Premium,1,Fri,FALSE,"No Favorite Lesson","11:31 AM","12:13 PM",42,TRUE,coconut_pineapple,TRUE,Chantal,TRUE
+409,Female,2004-12-19,19,Standard,3,"Sun, Thu, Wed",FALSE,"No Favorite Lesson","06:07 PM","08:51 PM",164,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+410,Male,1979-04-01,45,Premium,3,"Sun, Tue, Wed",FALSE,"No Favorite Lesson","11:20 AM","02:08 PM",168,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+411,Female,1980-08-27,44,Standard,2,"Tue, Wed",FALSE,"No Favorite Lesson","11:53 AM","12:48 PM",55,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+412,Male,1984-12-09,39,Standard,2,"Sun, Tue",TRUE,"LesMiles, BodyPump","07:02 PM","07:47 PM",45,TRUE,berry_boost,TRUE,Chantal,FALSE
+413,Male,1993-10-26,30,Premium,1,Sun,TRUE,LesMiles,"08:38 AM","10:08 AM",90,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+414,Female,1995-01-01,29,Standard,1,Sun,TRUE,BodyPump,"12:26 PM","01:45 PM",79,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+415,Female,1994-12-26,29,Premium,1,Sat,FALSE,"No Favorite Lesson","04:54 PM","06:15 PM",81,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+416,Male,1988-01-12,36,Premium,3,"Sat, Sun, Wed",TRUE,LesMiles,"07:37 PM","08:38 PM",61,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+417,Female,2007-11-02,16,Standard,3,"Fri, Sun, Wed",TRUE,"Kickboxen, Pilates","02:53 PM","05:02 PM",129,TRUE,coconut_pineapple,FALSE,"No Trainer",TRUE
+418,Female,1975-09-25,49,Premium,3,"Mon, Sun, Wed",FALSE,"No Favorite Lesson","07:37 PM","09:31 PM",114,TRUE,"berry_boost, coconut_pineapple",FALSE,"No Trainer",FALSE
+419,Female,2004-11-26,19,Premium,3,"Sat, Tue, Wed",TRUE,"Kickboxen, Spinning, HIT","10:33 AM","11:32 AM",59,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+420,Male,1978-02-27,46,Premium,2,"Fri, Tue",FALSE,"No Favorite Lesson","11:27 AM","01:39 PM",132,TRUE,"coconut_pineapple, black_currant",TRUE,Hanna,FALSE
+421,Female,1998-01-09,26,Standard,3,"Thu, Tue, Wed",FALSE,"No Favorite Lesson","02:54 PM","04:46 PM",112,TRUE,"orange, black_currant",TRUE,Chantal,TRUE
+422,Female,1990-05-21,34,Standard,4,"Fri, Thu, Tue, Wed",FALSE,"No Favorite Lesson","12:46 PM","01:55 PM",69,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+423,Female,1987-04-18,37,Premium,5,"Fri, Mon, Sat, Sun, Thu",TRUE,XCore,"06:48 PM","09:03 PM",135,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+424,Female,2002-04-02,22,Premium,1,Sun,TRUE,"Pilates, LesMiles, Spinning","12:27 PM","02:03 PM",96,TRUE,coconut_pineapple,FALSE,"No Trainer",TRUE
+425,Male,1983-05-03,41,Premium,5,"Mon, Sat, Sun, Tue, Wed",FALSE,"No Favorite Lesson","04:21 PM","06:38 PM",137,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+426,Female,1985-07-09,39,Premium,2,"Fri, Sat",FALSE,"No Favorite Lesson","08:04 PM","08:43 PM",39,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+427,Male,2010-05-02,14,Premium,3,"Fri, Mon, Sun",FALSE,"No Favorite Lesson","04:05 PM","07:05 PM",180,TRUE,black_currant,TRUE,Mike,FALSE
+428,Female,2008-07-22,16,Standard,3,"Sat, Sun, Wed",TRUE,"Pilates, BodyBalance, Spinning","02:06 PM","04:15 PM",129,TRUE,berry_boost,FALSE,"No Trainer",FALSE
+429,Male,1993-04-19,31,Standard,2,"Sun, Thu",TRUE,"Yoga, Pilates, BodyPump","05:57 PM","07:22 PM",85,TRUE,"lemon, passion_fruit",TRUE,Jeffrey,TRUE
+430,Female,1998-12-06,25,Standard,2,"Mon, Thu",FALSE,"No Favorite Lesson","03:12 PM","03:57 PM",45,TRUE,coconut_pineapple,TRUE,Chantal,FALSE
+431,Male,1993-07-16,31,Premium,2,"Sun, Tue",TRUE,"Zumba, Yoga, Spinning","04:01 PM","06:11 PM",130,TRUE,"black_currant, orange",FALSE,"No Trainer",TRUE
+432,Male,1994-01-10,30,Standard,5,"Fri, Mon, Sun, Tue, Wed",TRUE,"Yoga, Spinning","10:56 AM","01:40 PM",164,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+433,Female,1977-01-28,47,Premium,3,"Sat, Sun, Thu",FALSE,"No Favorite Lesson","02:51 PM","05:38 PM",167,TRUE,orange,FALSE,"No Trainer",TRUE
+434,Female,1995-04-29,29,Standard,5,"Mon, Sat, Sun, Thu, Tue",FALSE,"No Favorite Lesson","06:14 PM","09:04 PM",170,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+435,Female,1981-04-20,43,Standard,1,Sat,TRUE,Yoga,"02:44 PM","04:44 PM",120,TRUE,"passion_fruit, berry_boost",TRUE,Chantal,TRUE
+436,Male,2001-05-02,23,Standard,1,Sun,FALSE,"No Favorite Lesson","11:28 AM","01:04 PM",96,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+437,Male,1997-08-23,27,Premium,2,"Fri, Thu",TRUE,LesMiles,"04:29 PM","07:08 PM",159,TRUE,coconut_pineapple,FALSE,"No Trainer",TRUE
+438,Male,1990-02-22,34,Premium,2,"Tue, Wed",FALSE,"No Favorite Lesson","05:18 PM","06:57 PM",99,TRUE,passion_fruit,TRUE,Mike,FALSE
+439,Male,2011-12-20,12,Standard,2,"Sat, Wed",TRUE,"Kickboxen, BodyBalance","01:58 PM","03:56 PM",118,TRUE,"orange, lemon",TRUE,Chantal,TRUE
+440,Male,1987-09-27,37,Premium,1,Sat,TRUE,Running,"01:10 PM","04:02 PM",172,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+441,Female,1986-03-24,38,Standard,3,"Thu, Tue, Wed",TRUE,Spinning,"04:41 PM","05:48 PM",67,TRUE,"lemon, berry_boost",FALSE,"No Trainer",TRUE
+442,Female,1994-05-17,30,Standard,1,Sat,FALSE,"No Favorite Lesson","02:08 PM","05:08 PM",180,FALSE,"No Favorite Drink",TRUE,Hanna,FALSE
+443,Female,1998-11-11,25,Standard,2,"Mon, Tue",TRUE,"Running, Spinning","01:59 PM","03:29 PM",90,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+444,Male,1975-02-23,49,Standard,2,"Mon, Sun",FALSE,"No Favorite Lesson","06:40 PM","08:46 PM",126,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+445,Female,1989-04-11,35,Premium,1,Tue,FALSE,"No Favorite Lesson","12:12 PM","02:48 PM",156,TRUE,black_currant,FALSE,"No Trainer",FALSE
+446,Female,1982-12-05,41,Standard,2,"Sun, Tue",TRUE,"HIT, BodyBalance","02:06 PM","04:06 PM",120,TRUE,"orange, berry_boost",TRUE,Jeffrey,TRUE
+447,Male,1991-04-09,33,Premium,3,"Mon, Thu, Tue",FALSE,"No Favorite Lesson","09:14 AM","10:31 AM",77,TRUE,"orange, lemon",FALSE,"No Trainer",TRUE
+448,Female,1997-07-13,27,Premium,2,"Fri, Tue",FALSE,"No Favorite Lesson","05:22 PM","07:32 PM",130,TRUE,"passion_fruit, black_currant",FALSE,"No Trainer",FALSE
+449,Female,2006-07-23,18,Standard,3,"Fri, Thu, Wed",TRUE,"BodyBalance, Pilates, HIT","06:43 PM","09:06 PM",143,TRUE,passion_fruit,FALSE,"No Trainer",TRUE
+450,Male,2006-06-24,18,Premium,4,"Fri, Sat, Sun, Tue",TRUE,Running,"07:08 PM","09:32 PM",144,TRUE,black_currant,FALSE,"No Trainer",FALSE
+451,Female,1994-04-09,30,Premium,4,"Fri, Sat, Sun, Wed",TRUE,"BodyPump, Pilates, Yoga","02:27 PM","04:09 PM",102,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+452,Female,1985-06-16,39,Standard,4,"Sat, Sun, Thu, Tue",TRUE,"Spinning, HIT","04:21 PM","05:34 PM",73,TRUE,"lemon, black_currant",TRUE,Jeffrey,FALSE
+453,Female,1994-03-25,30,Standard,3,"Sat, Sun, Wed",TRUE,"Yoga, Spinning","06:36 PM","08:33 PM",117,TRUE,orange,TRUE,Jeffrey,FALSE
+454,Female,1999-01-10,25,Premium,4,"Mon, Sun, Tue, Wed",TRUE,Running,"06:14 PM","07:59 PM",105,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+455,Female,2008-05-19,16,Standard,1,Mon,TRUE,"BodyBalance, Pilates, Yoga","08:02 PM","10:37 PM",155,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+456,Male,1993-12-26,30,Standard,3,"Sat, Thu, Wed",TRUE,Yoga,"02:55 PM","04:01 PM",66,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+457,Female,1983-03-19,41,Premium,1,Wed,FALSE,"No Favorite Lesson","04:21 PM","06:39 PM",138,TRUE,berry_boost,TRUE,Hanna,FALSE
+458,Female,1986-02-14,38,Standard,3,"Mon, Sun, Tue",TRUE,Pilates,"11:37 AM","12:57 PM",80,TRUE,"orange, black_currant",TRUE,Jeffrey,TRUE
+459,Male,1978-03-02,46,Standard,3,"Sat, Thu, Tue",FALSE,"No Favorite Lesson","06:28 PM","07:40 PM",72,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+460,Female,1995-12-20,28,Premium,4,"Mon, Sat, Thu, Wed",FALSE,"No Favorite Lesson","09:22 AM","10:57 AM",95,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+461,Male,2009-06-23,15,Premium,2,"Mon, Thu",TRUE,"XCore, Yoga","07:07 PM","10:02 PM",175,TRUE,"black_currant, orange",FALSE,"No Trainer",TRUE
+462,Male,1999-06-01,25,Premium,2,"Thu, Tue",FALSE,"No Favorite Lesson","10:55 AM","01:51 PM",176,TRUE,lemon,FALSE,"No Trainer",TRUE
+463,Female,2006-04-22,18,Standard,2,"Fri, Tue",FALSE,"No Favorite Lesson","06:15 PM","08:59 PM",164,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+464,Female,1986-09-20,38,Premium,4,"Fri, Mon, Thu, Wed",TRUE,"BodyPump, LesMiles, HIT","08:54 PM","10:41 PM",107,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+465,Female,2001-10-29,22,Standard,4,"Fri, Sat, Thu, Tue",FALSE,"No Favorite Lesson","02:33 PM","03:48 PM",75,TRUE,orange,FALSE,"No Trainer",TRUE
+466,Female,1980-01-13,44,Premium,3,"Mon, Sat, Thu",FALSE,"No Favorite Lesson","05:47 PM","06:30 PM",43,TRUE,berry_boost,TRUE,Jeffrey,TRUE
+467,Male,2010-01-27,14,Premium,5,"Sat, Sun, Thu, Tue, Wed",TRUE,"BodyBalance, Zumba","08:25 AM","10:08 AM",103,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+468,Female,1983-01-28,41,Premium,3,"Fri, Sat, Sun",FALSE,"No Favorite Lesson","09:56 AM","11:39 AM",103,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+469,Male,1990-06-21,34,Premium,2,"Sat, Thu",TRUE,LesMiles,"01:39 PM","02:34 PM",55,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+470,Male,1998-10-07,26,Premium,1,Fri,TRUE,Pilates,"12:45 PM","02:09 PM",84,TRUE,"black_currant, orange",TRUE,Chantal,TRUE
+471,Female,1976-04-23,48,Standard,1,Fri,FALSE,"No Favorite Lesson","10:42 AM","11:57 AM",75,TRUE,lemon,TRUE,Chantal,TRUE
+472,Male,1979-01-02,45,Standard,1,Mon,TRUE,"Running, LesMiles","09:31 AM","10:42 AM",71,TRUE,"orange, lemon",FALSE,"No Trainer",TRUE
+473,Male,2003-11-18,20,Standard,4,"Mon, Sat, Tue, Wed",TRUE,"Running, HIT","09:46 AM","11:55 AM",129,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+474,Male,1991-08-03,33,Standard,3,"Sat, Sun, Wed",TRUE,"BodyBalance, Kickboxen, HIT","04:59 PM","06:31 PM",92,TRUE,orange,TRUE,Jeffrey,FALSE
+475,Male,2001-04-04,23,Standard,2,"Sat, Thu",FALSE,"No Favorite Lesson","11:56 AM","01:42 PM",106,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+476,Male,2001-07-09,23,Standard,2,"Tue, Wed",TRUE,"XCore, Kickboxen","05:37 PM","07:57 PM",140,TRUE,orange,TRUE,Mike,TRUE
+477,Female,2002-03-09,22,Premium,1,Thu,FALSE,"No Favorite Lesson","09:43 AM","10:37 AM",54,TRUE,berry_boost,FALSE,"No Trainer",FALSE
+478,Female,1980-10-31,43,Standard,3,"Fri, Mon, Tue",FALSE,"No Favorite Lesson","11:56 AM","12:35 PM",39,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+479,Male,2010-03-23,14,Premium,2,"Sun, Tue",FALSE,"No Favorite Lesson","12:23 PM","02:44 PM",141,TRUE,berry_boost,TRUE,Chantal,TRUE
+480,Male,2000-07-25,24,Premium,2,"Sat, Tue",TRUE,"Zumba, LesMiles, Spinning","11:46 AM","02:43 PM",177,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+481,Female,1979-03-26,45,Standard,1,Sun,FALSE,"No Favorite Lesson","08:40 PM","11:14 PM",154,TRUE,berry_boost,FALSE,"No Trainer",FALSE
+482,Male,2005-07-27,19,Premium,2,"Fri, Tue",TRUE,LesMiles,"12:50 PM","02:56 PM",126,TRUE,passion_fruit,FALSE,"No Trainer",FALSE
+483,Female,1998-03-17,26,Premium,3,"Fri, Thu, Wed",TRUE,"BodyBalance, XCore","06:41 PM","09:00 PM",139,TRUE,"black_currant, coconut_pineapple",TRUE,Mike,TRUE
+484,Male,1996-05-03,28,Standard,2,"Fri, Tue",FALSE,"No Favorite Lesson","02:12 PM","03:26 PM",74,TRUE,"passion_fruit, orange",FALSE,"No Trainer",FALSE
+485,Male,1979-03-31,45,Standard,1,Mon,TRUE,Yoga,"06:07 PM","07:42 PM",95,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+486,Male,1975-09-16,49,Standard,3,"Sun, Tue, Wed",TRUE,Pilates,"05:10 PM","06:03 PM",53,TRUE,"orange, coconut_pineapple",TRUE,Mike,TRUE
+487,Female,1998-02-22,26,Standard,2,"Sat, Wed",TRUE,"BodyBalance, LesMiles, BodyPump","03:44 PM","06:17 PM",153,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+488,Male,1981-04-25,43,Premium,5,"Fri, Mon, Sat, Thu, Wed",FALSE,"No Favorite Lesson","05:52 PM","08:52 PM",180,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+489,Male,1991-10-08,33,Premium,2,"Sun, Tue",FALSE,"No Favorite Lesson","12:42 PM","03:01 PM",139,TRUE,berry_boost,TRUE,Mike,FALSE
+490,Female,1996-06-14,28,Standard,3,"Fri, Sun, Tue",FALSE,"No Favorite Lesson","09:55 AM","10:55 AM",60,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+491,Female,1975-07-18,49,Premium,1,Fri,TRUE,Running,"08:06 AM","10:41 AM",155,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+492,Male,2007-11-19,16,Standard,2,"Fri, Thu",FALSE,"No Favorite Lesson","11:43 AM","12:52 PM",69,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+493,Female,1984-11-15,39,Standard,2,"Tue, Wed",TRUE,"Yoga, BodyPump","03:14 PM","05:39 PM",145,TRUE,black_currant,FALSE,"No Trainer",FALSE
+494,Female,2012-07-22,12,Standard,3,"Sat, Thu, Wed",TRUE,BodyPump,"11:50 AM","01:43 PM",113,TRUE,"passion_fruit, orange",FALSE,"No Trainer",TRUE
+495,Male,1984-03-30,40,Standard,3,"Mon, Sat, Tue",FALSE,"No Favorite Lesson","08:41 AM","09:35 AM",54,TRUE,"passion_fruit, lemon",FALSE,"No Trainer",TRUE
+496,Male,1979-12-03,44,Premium,1,Sun,FALSE,"No Favorite Lesson","03:34 PM","04:41 PM",67,TRUE,coconut_pineapple,TRUE,Jeffrey,FALSE
+497,Female,2012-09-19,12,Premium,2,"Sat, Sun",FALSE,"No Favorite Lesson","08:05 AM","10:14 AM",129,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+498,Male,1981-08-07,43,Premium,4,"Mon, Sat, Tue, Wed",TRUE,"BodyBalance, Spinning, XCore","10:38 AM","11:41 AM",63,TRUE,orange,TRUE,Jeffrey,TRUE
+499,Female,1995-09-22,29,Premium,3,"Mon, Sat, Thu",TRUE,"XCore, Running, BodyBalance","08:43 PM","09:23 PM",40,TRUE,berry_boost,FALSE,"No Trainer",FALSE
+500,Male,2005-10-14,19,Standard,3,"Mon, Sun, Wed",FALSE,"No Favorite Lesson","02:34 PM","03:34 PM",60,TRUE,"coconut_pineapple, lemon",FALSE,"No Trainer",TRUE
+501,Male,2005-03-14,19,Premium,2,"Sun, Tue",TRUE,"Pilates, Zumba, Spinning","07:22 PM","08:25 PM",63,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+502,Male,2010-11-29,13,Premium,1,Fri,FALSE,"No Favorite Lesson","04:10 PM","04:40 PM",30,TRUE,lemon,FALSE,"No Trainer",FALSE
+503,Female,2007-10-19,16,Standard,3,"Mon, Sat, Thu",FALSE,"No Favorite Lesson","03:10 PM","04:06 PM",56,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+504,Female,2000-12-01,23,Standard,3,"Sat, Tue, Wed",TRUE,"HIT, BodyBalance","12:33 PM","02:41 PM",128,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+505,Male,1989-05-02,35,Standard,1,Tue,FALSE,"No Favorite Lesson","04:19 PM","07:13 PM",174,TRUE,berry_boost,FALSE,"No Trainer",FALSE
+506,Female,1997-07-09,27,Premium,2,"Tue, Wed",FALSE,"No Favorite Lesson","06:28 PM","08:20 PM",112,TRUE,coconut_pineapple,FALSE,"No Trainer",FALSE
+507,Female,1977-05-24,47,Premium,2,"Sun, Tue",TRUE,"LesMiles, BodyBalance","03:09 PM","04:18 PM",69,TRUE,"berry_boost, black_currant",TRUE,Chantal,TRUE
+508,Male,1979-09-18,45,Standard,1,Mon,FALSE,"No Favorite Lesson","07:23 PM","08:50 PM",87,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+509,Female,1997-03-21,27,Premium,1,Thu,FALSE,"No Favorite Lesson","02:17 PM","03:42 PM",85,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+510,Male,2005-03-23,19,Standard,3,"Sun, Tue, Wed",TRUE,"LesMiles, Kickboxen, Yoga","12:56 PM","03:52 PM",176,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+511,Male,1988-01-16,36,Standard,1,Sat,TRUE,XCore,"11:56 AM","12:58 PM",62,TRUE,"lemon, passion_fruit",TRUE,Mike,TRUE
+512,Male,2000-12-23,23,Standard,3,"Sun, Tue, Wed",TRUE,"XCore, Spinning, Pilates","07:02 PM","09:09 PM",127,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+513,Male,1999-05-03,25,Premium,1,Sat,TRUE,"Kickboxen, Running","02:30 PM","03:03 PM",33,TRUE,orange,TRUE,Hanna,FALSE
+514,Female,2001-05-13,23,Standard,3,"Fri, Mon, Wed",TRUE,"Zumba, XCore","12:43 PM","01:13 PM",30,TRUE,passion_fruit,FALSE,"No Trainer",FALSE
+515,Female,2002-10-23,21,Standard,1,Mon,FALSE,"No Favorite Lesson","08:29 AM","09:53 AM",84,TRUE,passion_fruit,FALSE,"No Trainer",FALSE
+516,Female,1975-10-30,48,Premium,1,Wed,TRUE,Yoga,"02:44 PM","05:01 PM",137,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+517,Male,1998-06-19,26,Standard,4,"Mon, Thu, Tue, Wed",FALSE,"No Favorite Lesson","08:44 AM","11:11 AM",147,TRUE,black_currant,FALSE,"No Trainer",FALSE
+518,Male,2007-06-28,17,Standard,2,"Fri, Wed",TRUE,"BodyPump, XCore","08:24 AM","09:57 AM",93,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+519,Male,2010-11-26,13,Standard,2,"Sun, Tue",TRUE,XCore,"10:34 AM","12:49 PM",135,TRUE,"orange, coconut_pineapple",FALSE,"No Trainer",FALSE
+520,Female,1991-09-12,33,Standard,3,"Mon, Sat, Thu",FALSE,"No Favorite Lesson","07:30 PM","09:59 PM",149,TRUE,"berry_boost, orange",FALSE,"No Trainer",TRUE
+521,Female,1993-03-01,31,Premium,4,"Fri, Mon, Tue, Wed",FALSE,"No Favorite Lesson","08:33 PM","10:56 PM",143,TRUE,passion_fruit,FALSE,"No Trainer",FALSE
+522,Female,2000-03-03,24,Standard,2,"Mon, Thu",TRUE,Zumba,"08:25 PM","08:55 PM",30,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+523,Female,1994-01-12,30,Premium,1,Fri,FALSE,"No Favorite Lesson","05:59 PM","08:47 PM",168,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+524,Female,2009-07-17,15,Standard,2,"Fri, Sun",TRUE,XCore,"02:20 PM","05:01 PM",161,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+525,Female,1997-04-07,27,Premium,5,"Fri, Mon, Sun, Tue, Wed",FALSE,"No Favorite Lesson","06:22 PM","07:04 PM",42,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+526,Male,2008-01-07,16,Standard,4,"Mon, Sat, Sun, Thu",TRUE,"Zumba, Running, Spinning","01:43 PM","02:14 PM",31,TRUE,passion_fruit,TRUE,Mike,FALSE
+527,Female,1990-08-20,34,Premium,3,"Mon, Tue, Wed",FALSE,"No Favorite Lesson","11:15 AM","01:24 PM",129,TRUE,passion_fruit,TRUE,Chantal,TRUE
+528,Female,1998-07-30,26,Standard,3,"Sat, Thu, Wed",TRUE,BodyBalance,"08:27 AM","10:39 AM",132,TRUE,berry_boost,FALSE,"No Trainer",TRUE
+529,Male,2004-09-13,20,Premium,2,"Mon, Wed",FALSE,"No Favorite Lesson","08:50 AM","10:13 AM",83,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+530,Female,1979-04-17,45,Premium,3,"Fri, Sat, Tue",TRUE,"Kickboxen, BodyPump","07:59 PM","08:57 PM",58,TRUE,"coconut_pineapple, orange",FALSE,"No Trainer",TRUE
+531,Male,1993-06-10,31,Premium,2,"Fri, Tue",TRUE,Kickboxen,"02:51 PM","05:44 PM",173,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+532,Male,1976-09-28,48,Premium,4,"Mon, Sun, Thu, Tue",TRUE,BodyPump,"04:04 PM","06:33 PM",149,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+533,Female,1985-08-29,39,Premium,4,"Mon, Thu, Tue, Wed",FALSE,"No Favorite Lesson","06:58 PM","08:43 PM",105,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+534,Male,1996-01-31,28,Standard,5,"Fri, Mon, Sat, Tue, Wed",FALSE,"No Favorite Lesson","02:53 PM","04:53 PM",120,TRUE,lemon,FALSE,"No Trainer",FALSE
+535,Male,2006-09-25,18,Premium,3,"Mon, Sat, Tue",TRUE,"BodyPump, HIT","05:46 PM","08:29 PM",163,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+536,Male,1988-03-25,36,Premium,3,"Fri, Sat, Tue",FALSE,"No Favorite Lesson","04:05 PM","06:19 PM",134,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+537,Female,1997-12-18,26,Standard,3,"Sat, Sun, Wed",TRUE,BodyPump,"10:22 AM","11:36 AM",74,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+538,Male,1980-06-26,44,Premium,2,"Mon, Sun",FALSE,"No Favorite Lesson","08:10 AM","09:57 AM",107,TRUE,orange,TRUE,Jeffrey,TRUE
+539,Male,2012-08-18,12,Premium,1,Tue,TRUE,"XCore, Spinning","05:08 PM","07:26 PM",138,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+540,Male,2000-02-12,24,Standard,1,Thu,TRUE,"Yoga, Kickboxen","08:58 AM","11:53 AM",175,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+541,Male,1976-09-04,48,Premium,2,"Mon, Thu",FALSE,"No Favorite Lesson","04:59 PM","06:18 PM",79,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+542,Female,2011-10-11,13,Premium,1,Sat,TRUE,"XCore, BodyPump","11:55 AM","12:55 PM",60,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+543,Female,1995-08-03,29,Standard,2,"Fri, Thu",FALSE,"No Favorite Lesson","02:45 PM","04:43 PM",118,TRUE,coconut_pineapple,TRUE,Jeffrey,TRUE
+544,Female,2012-09-21,12,Premium,2,"Mon, Tue",TRUE,"BodyBalance, HIT","09:49 AM","11:30 AM",101,FALSE,"No Favorite Drink",TRUE,Hanna,FALSE
+545,Female,1987-06-02,37,Premium,1,Wed,TRUE,"BodyBalance, Spinning, HIT","03:26 PM","04:15 PM",49,TRUE,passion_fruit,FALSE,"No Trainer",FALSE
+546,Female,2003-11-04,20,Standard,1,Tue,FALSE,"No Favorite Lesson","08:55 AM","10:23 AM",88,TRUE,"berry_boost, passion_fruit",TRUE,Hanna,TRUE
+547,Male,2002-09-08,22,Standard,2,"Sat, Thu",FALSE,"No Favorite Lesson","04:19 PM","05:42 PM",83,TRUE,lemon,FALSE,"No Trainer",FALSE
+548,Female,2011-05-04,13,Standard,2,"Sat, Wed",TRUE,Pilates,"04:36 PM","05:32 PM",56,TRUE,"berry_boost, passion_fruit",FALSE,"No Trainer",FALSE
+549,Male,1989-07-31,35,Premium,1,Thu,TRUE,"BodyPump, Running, Spinning","04:27 PM","05:25 PM",58,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+550,Female,2006-08-31,18,Premium,1,Sat,FALSE,"No Favorite Lesson","06:01 PM","06:36 PM",35,TRUE,lemon,TRUE,Jeffrey,FALSE
+551,Female,1988-09-21,36,Standard,2,"Mon, Sun",FALSE,"No Favorite Lesson","03:38 PM","05:36 PM",118,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+552,Female,1986-11-05,37,Standard,1,Sun,TRUE,Spinning,"03:55 PM","04:33 PM",38,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+553,Male,1986-12-14,37,Standard,3,"Fri, Thu, Wed",TRUE,"Kickboxen, Pilates, XCore","06:23 PM","08:28 PM",125,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+554,Female,1978-01-19,46,Premium,3,"Sat, Thu, Tue",TRUE,"BodyPump, LesMiles","06:15 PM","08:10 PM",115,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+555,Male,1985-05-27,39,Premium,4,"Mon, Sun, Tue, Wed",TRUE,BodyPump,"07:22 PM","09:18 PM",116,TRUE,"passion_fruit, orange",FALSE,"No Trainer",FALSE
+556,Female,1985-04-20,39,Standard,2,"Fri, Wed",FALSE,"No Favorite Lesson","10:32 AM","12:28 PM",116,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+557,Female,1987-03-26,37,Standard,1,Fri,TRUE,"LesMiles, Yoga","10:36 AM","11:56 AM",80,TRUE,coconut_pineapple,FALSE,"No Trainer",TRUE
+558,Male,1975-11-26,48,Standard,3,"Mon, Tue, Wed",FALSE,"No Favorite Lesson","03:32 PM","04:25 PM",53,TRUE,passion_fruit,TRUE,Hanna,TRUE
+559,Female,1978-08-08,46,Premium,2,"Mon, Tue",FALSE,"No Favorite Lesson","05:54 PM","07:17 PM",83,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+560,Female,1979-07-13,45,Standard,2,"Thu, Wed",FALSE,"No Favorite Lesson","03:36 PM","05:56 PM",140,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+561,Female,1981-09-23,43,Premium,5,"Mon, Sat, Sun, Thu, Wed",TRUE,"BodyPump, Running","01:20 PM","02:41 PM",81,TRUE,"black_currant, orange",FALSE,"No Trainer",TRUE
+562,Female,1986-10-09,38,Standard,1,Tue,TRUE,"Yoga, Kickboxen, Pilates","12:52 PM","03:23 PM",151,TRUE,black_currant,FALSE,"No Trainer",FALSE
+563,Female,2008-06-20,16,Premium,5,"Fri, Sat, Thu, Tue, Wed",FALSE,"No Favorite Lesson","06:39 PM","08:06 PM",87,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+564,Female,2007-03-15,17,Standard,2,"Fri, Sat",FALSE,"No Favorite Lesson","04:59 PM","07:27 PM",148,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+565,Male,1982-03-19,42,Standard,1,Thu,TRUE,"Kickboxen, Zumba, HIT","12:52 PM","02:18 PM",86,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+566,Female,1991-07-05,33,Standard,2,"Thu, Wed",FALSE,"No Favorite Lesson","09:56 AM","12:52 PM",176,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+567,Female,1979-11-24,44,Premium,4,"Mon, Thu, Tue, Wed",TRUE,Kickboxen,"07:09 PM","09:55 PM",166,TRUE,"black_currant, berry_boost",FALSE,"No Trainer",TRUE
+568,Female,1989-08-26,35,Premium,5,"Sat, Sun, Thu, Tue, Wed",FALSE,"No Favorite Lesson","10:41 AM","01:41 PM",180,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+569,Male,1993-07-21,31,Premium,2,"Mon, Wed",TRUE,"Yoga, Zumba","08:28 PM","09:52 PM",84,TRUE,black_currant,TRUE,Hanna,FALSE
+570,Male,1983-11-16,40,Standard,1,Fri,FALSE,"No Favorite Lesson","06:30 PM","07:44 PM",74,TRUE,"lemon, black_currant",FALSE,"No Trainer",TRUE
+571,Female,1975-04-20,49,Premium,2,"Tue, Wed",FALSE,"No Favorite Lesson","10:11 AM","11:28 AM",77,TRUE,berry_boost,TRUE,Hanna,FALSE
+572,Female,2008-07-26,16,Standard,5,"Fri, Sat, Sun, Thu, Wed",TRUE,"Spinning, Zumba","05:04 PM","05:45 PM",41,TRUE,passion_fruit,FALSE,"No Trainer",TRUE
+573,Male,1997-04-19,27,Premium,3,"Mon, Sat, Thu",FALSE,"No Favorite Lesson","06:16 PM","08:37 PM",141,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+574,Female,1975-03-30,49,Premium,2,"Mon, Sun",FALSE,"No Favorite Lesson","07:30 PM","08:52 PM",82,TRUE,berry_boost,TRUE,Chantal,FALSE
+575,Female,1991-03-09,33,Premium,1,Sun,FALSE,"No Favorite Lesson","04:29 PM","05:07 PM",38,FALSE,"No Favorite Drink",TRUE,Hanna,FALSE
+576,Male,2008-06-10,16,Premium,2,"Fri, Wed",TRUE,"Running, Zumba, HIT","12:40 PM","01:52 PM",72,TRUE,"lemon, orange",TRUE,Chantal,FALSE
+577,Female,2002-11-24,21,Standard,2,"Mon, Wed",FALSE,"No Favorite Lesson","10:26 AM","12:21 PM",115,TRUE,"black_currant, coconut_pineapple",TRUE,Mike,TRUE
+578,Male,1983-04-02,41,Premium,5,"Mon, Sat, Sun, Tue, Wed",FALSE,"No Favorite Lesson","08:35 PM","10:30 PM",115,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+579,Male,1988-10-22,35,Premium,2,"Sun, Wed",FALSE,"No Favorite Lesson","07:50 PM","10:24 PM",154,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+580,Male,2006-07-29,18,Standard,3,"Sun, Thu, Tue",TRUE,"Running, LesMiles, Spinning","04:10 PM","05:04 PM",54,TRUE,lemon,FALSE,"No Trainer",FALSE
+581,Male,1975-09-09,49,Premium,3,"Mon, Sat, Sun",FALSE,"No Favorite Lesson","03:25 PM","06:05 PM",160,TRUE,orange,FALSE,"No Trainer",TRUE
+582,Female,1980-08-22,44,Premium,2,"Sun, Wed",TRUE,BodyPump,"02:41 PM","04:35 PM",114,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+583,Female,1994-01-26,30,Standard,1,Fri,FALSE,"No Favorite Lesson","04:34 PM","07:02 PM",148,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+584,Male,1995-10-21,28,Standard,3,"Sat, Thu, Wed",FALSE,"No Favorite Lesson","10:48 AM","12:09 PM",81,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+585,Female,1997-11-09,26,Premium,2,"Fri, Sun",TRUE,Kickboxen,"08:45 PM","09:48 PM",63,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+586,Male,1991-11-13,32,Standard,3,"Fri, Mon, Thu",FALSE,"No Favorite Lesson","08:13 AM","09:06 AM",53,TRUE,coconut_pineapple,FALSE,"No Trainer",FALSE
+587,Male,1998-03-16,26,Premium,5,"Fri, Sat, Sun, Tue, Wed",TRUE,Spinning,"03:57 PM","05:38 PM",101,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+588,Male,2004-12-08,19,Premium,3,"Sat, Thu, Tue",TRUE,"BodyPump, BodyBalance, Zumba","08:22 AM","09:14 AM",52,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+589,Male,2009-06-28,15,Standard,4,"Fri, Sat, Sun, Wed",FALSE,"No Favorite Lesson","02:06 PM","03:54 PM",108,TRUE,"coconut_pineapple, lemon",FALSE,"No Trainer",TRUE
+590,Male,1993-08-29,31,Standard,2,"Fri, Tue",TRUE,"XCore, BodyPump","09:51 AM","11:04 AM",73,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+591,Male,1984-10-22,39,Standard,5,"Fri, Mon, Sun, Thu, Wed",TRUE,HIT,"12:50 PM","02:58 PM",128,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+592,Female,1980-11-21,43,Standard,3,"Sat, Sun, Wed",TRUE,"BodyBalance, Zumba, Kickboxen","10:17 AM","12:00 PM",103,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+593,Female,1998-07-23,26,Standard,5,"Fri, Sun, Thu, Tue, Wed",FALSE,"No Favorite Lesson","07:51 PM","09:23 PM",92,TRUE,orange,TRUE,Chantal,TRUE
+594,Male,2009-05-04,15,Standard,1,Thu,TRUE,BodyPump,"08:01 AM","10:30 AM",149,TRUE,lemon,TRUE,Hanna,TRUE
+595,Male,1991-05-13,33,Standard,2,"Sat, Wed",TRUE,"BodyPump, Running","05:06 PM","07:09 PM",123,TRUE,"orange, berry_boost",TRUE,Hanna,FALSE
+596,Male,1978-07-25,46,Premium,5,"Mon, Sat, Thu, Tue, Wed",FALSE,"No Favorite Lesson","08:46 PM","10:09 PM",83,TRUE,"orange, black_currant",TRUE,Hanna,TRUE
+597,Male,1975-12-22,48,Premium,1,Fri,FALSE,"No Favorite Lesson","06:52 PM","08:11 PM",79,TRUE,orange,TRUE,Mike,FALSE
+598,Female,2009-11-05,14,Standard,2,"Fri, Thu",TRUE,"BodyBalance, LesMiles, Pilates","09:21 AM","12:12 PM",171,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+599,Male,1985-11-28,38,Standard,5,"Mon, Sat, Sun, Thu, Tue",FALSE,"No Favorite Lesson","08:35 AM","10:56 AM",141,TRUE,berry_boost,TRUE,Jeffrey,FALSE
+600,Male,1979-10-17,44,Premium,3,"Sun, Tue, Wed",FALSE,"No Favorite Lesson","07:40 PM","10:29 PM",169,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+601,Female,1984-11-19,39,Standard,2,"Sun, Wed",FALSE,"No Favorite Lesson","12:10 PM","12:42 PM",32,TRUE,"passion_fruit, berry_boost",TRUE,Mike,FALSE
+602,Male,1975-04-28,49,Standard,2,"Sat, Wed",FALSE,"No Favorite Lesson","03:41 PM","05:45 PM",124,TRUE,"passion_fruit, orange",FALSE,"No Trainer",FALSE
+603,Male,2007-04-03,17,Standard,3,"Fri, Mon, Sun",FALSE,"No Favorite Lesson","03:24 PM","05:42 PM",138,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+604,Female,1989-02-20,35,Standard,2,"Tue, Wed",FALSE,"No Favorite Lesson","06:42 PM","09:41 PM",179,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+605,Male,1979-02-18,45,Standard,3,"Mon, Sat, Tue",TRUE,HIT,"05:42 PM","08:36 PM",174,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+606,Male,1995-02-23,29,Standard,3,"Fri, Mon, Thu",TRUE,"XCore, HIT, Spinning","08:39 PM","10:09 PM",90,FALSE,"No Favorite Drink",TRUE,Hanna,FALSE
+607,Female,1982-09-29,42,Premium,3,"Mon, Sat, Thu",FALSE,"No Favorite Lesson","04:20 PM","05:20 PM",60,TRUE,coconut_pineapple,TRUE,Mike,FALSE
+608,Female,2006-05-09,18,Standard,3,"Sat, Tue, Wed",TRUE,"HIT, LesMiles, BodyBalance","08:46 AM","10:53 AM",127,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+609,Female,1988-05-20,36,Standard,3,"Fri, Thu, Tue",TRUE,"BodyBalance, Running, LesMiles","05:33 PM","07:16 PM",103,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+610,Female,1990-07-20,34,Standard,2,"Mon, Thu",TRUE,"Yoga, Kickboxen, Pilates","02:03 PM","04:10 PM",127,TRUE,passion_fruit,FALSE,"No Trainer",TRUE
+611,Female,1987-12-04,36,Premium,1,Fri,TRUE,"Yoga, Pilates","02:49 PM","04:32 PM",103,TRUE,"passion_fruit, berry_boost",TRUE,Chantal,FALSE
+612,Female,1979-05-08,45,Standard,3,"Mon, Sun, Wed",FALSE,"No Favorite Lesson","01:42 PM","03:54 PM",132,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+613,Male,1981-07-25,43,Standard,5,"Fri, Sat, Sun, Thu, Tue",TRUE,"XCore, Yoga, BodyPump","05:32 PM","06:16 PM",44,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+614,Male,2008-08-09,16,Premium,3,"Sat, Thu, Tue",FALSE,"No Favorite Lesson","09:37 AM","11:46 AM",129,TRUE,coconut_pineapple,FALSE,"No Trainer",TRUE
+615,Male,1985-06-28,39,Premium,3,"Mon, Thu, Tue",FALSE,"No Favorite Lesson","06:07 PM","08:59 PM",172,TRUE,"orange, berry_boost",FALSE,"No Trainer",FALSE
+616,Male,1987-09-01,37,Standard,2,"Tue, Wed",FALSE,"No Favorite Lesson","11:30 AM","12:10 PM",40,TRUE,berry_boost,FALSE,"No Trainer",FALSE
+617,Male,2000-01-17,24,Standard,4,"Fri, Sat, Sun, Tue",FALSE,"No Favorite Lesson","03:28 PM","04:34 PM",66,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+618,Male,1986-10-27,37,Premium,3,"Mon, Tue, Wed",FALSE,"No Favorite Lesson","08:35 PM","10:58 PM",143,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+619,Male,1976-01-20,48,Premium,3,"Mon, Sun, Tue",FALSE,"No Favorite Lesson","02:29 PM","03:10 PM",41,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+620,Female,2000-04-22,24,Standard,2,"Thu, Wed",TRUE,Zumba,"10:26 AM","10:58 AM",32,TRUE,passion_fruit,FALSE,"No Trainer",FALSE
+621,Male,1983-10-10,41,Standard,1,Thu,FALSE,"No Favorite Lesson","10:52 AM","12:25 PM",93,TRUE,lemon,FALSE,"No Trainer",TRUE
+622,Female,1976-04-24,48,Premium,3,"Fri, Sat, Thu",TRUE,"Kickboxen, BodyBalance","03:30 PM","04:26 PM",56,TRUE,"coconut_pineapple, black_currant",TRUE,Hanna,FALSE
+623,Female,2011-03-26,13,Premium,2,"Sat, Sun",TRUE,"Yoga, HIT","08:25 AM","09:16 AM",51,TRUE,"passion_fruit, lemon",TRUE,Jeffrey,FALSE
+624,Male,1980-10-30,43,Premium,3,"Fri, Thu, Tue",FALSE,"No Favorite Lesson","08:39 AM","09:46 AM",67,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+625,Female,2002-10-07,22,Premium,4,"Fri, Thu, Tue, Wed",FALSE,"No Favorite Lesson","07:28 PM","10:18 PM",170,TRUE,"berry_boost, coconut_pineapple",TRUE,Hanna,FALSE
+626,Male,2003-10-02,21,Standard,5,"Fri, Mon, Sat, Sun, Wed",TRUE,"LesMiles, Running","04:57 PM","07:32 PM",155,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+627,Female,1995-06-19,29,Premium,2,"Sat, Tue",TRUE,"Spinning, LesMiles","08:00 PM","09:50 PM",110,TRUE,black_currant,TRUE,Chantal,FALSE
+628,Male,1985-02-07,39,Standard,2,"Sat, Sun",FALSE,"No Favorite Lesson","04:53 PM","06:08 PM",75,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+629,Male,2007-08-08,17,Standard,3,"Sat, Thu, Tue",FALSE,"No Favorite Lesson","11:02 AM","12:24 PM",82,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+630,Male,2003-07-25,21,Standard,5,"Fri, Mon, Sat, Sun, Tue",FALSE,"No Favorite Lesson","02:29 PM","04:01 PM",92,TRUE,"orange, black_currant",TRUE,Chantal,TRUE
+631,Female,1996-03-05,28,Standard,3,"Sat, Thu, Wed",FALSE,"No Favorite Lesson","08:50 AM","11:20 AM",150,FALSE,"No Favorite Drink",TRUE,Hanna,FALSE
+632,Male,1987-03-27,37,Premium,1,Sun,TRUE,"Zumba, LesMiles","12:16 PM","01:41 PM",85,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+633,Female,1997-10-13,27,Premium,5,"Fri, Mon, Sat, Tue, Wed",TRUE,Running,"02:42 PM","03:53 PM",71,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+634,Female,1999-12-22,24,Premium,1,Sat,FALSE,"No Favorite Lesson","04:51 PM","06:31 PM",100,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+635,Female,2005-12-03,18,Premium,1,Fri,FALSE,"No Favorite Lesson","09:13 AM","11:43 AM",150,TRUE,lemon,TRUE,Hanna,TRUE
+636,Female,1998-01-07,26,Standard,3,"Sun, Tue, Wed",TRUE,"XCore, BodyPump","01:24 PM","03:53 PM",149,TRUE,"passion_fruit, berry_boost",TRUE,Mike,FALSE
+637,Male,2001-06-15,23,Standard,1,Tue,FALSE,"No Favorite Lesson","10:01 AM","12:28 PM",147,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+638,Female,2005-11-02,18,Premium,2,"Mon, Sat",FALSE,"No Favorite Lesson","07:45 PM","10:44 PM",179,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+639,Female,1999-10-07,25,Premium,4,"Fri, Thu, Tue, Wed",TRUE,"Kickboxen, BodyPump, HIT","09:25 AM","10:36 AM",71,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+640,Female,2007-04-06,17,Premium,5,"Mon, Sat, Sun, Tue, Wed",TRUE,"BodyBalance, Kickboxen","10:00 AM","11:55 AM",115,TRUE,orange,FALSE,"No Trainer",FALSE
+641,Female,1999-08-17,25,Premium,1,Tue,FALSE,"No Favorite Lesson","08:37 AM","10:52 AM",135,TRUE,"lemon, passion_fruit",TRUE,Chantal,FALSE
+642,Female,1976-11-06,47,Standard,2,"Fri, Mon",TRUE,"Yoga, Spinning, XCore","12:42 PM","01:37 PM",55,TRUE,"berry_boost, orange",TRUE,Mike,TRUE
+643,Male,1999-07-25,25,Premium,2,"Thu, Wed",TRUE,"HIT, LesMiles","08:31 PM","09:08 PM",37,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+644,Female,2010-07-16,14,Premium,5,"Fri, Mon, Sat, Sun, Wed",TRUE,"Running, LesMiles","12:54 PM","03:10 PM",136,TRUE,coconut_pineapple,TRUE,Chantal,TRUE
+645,Male,2010-10-02,14,Premium,3,"Fri, Mon, Wed",TRUE,BodyBalance,"05:23 PM","06:22 PM",59,TRUE,lemon,FALSE,"No Trainer",TRUE
+646,Male,1975-08-16,49,Premium,3,"Fri, Sun, Thu",FALSE,"No Favorite Lesson","05:16 PM","07:52 PM",156,TRUE,passion_fruit,FALSE,"No Trainer",FALSE
+647,Male,2000-07-26,24,Standard,2,"Sun, Tue",TRUE,Yoga,"06:58 PM","07:40 PM",42,TRUE,"lemon, berry_boost",FALSE,"No Trainer",TRUE
+648,Female,1998-09-22,26,Standard,1,Sat,TRUE,"Kickboxen, BodyPump","12:44 PM","01:40 PM",56,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+649,Female,2002-05-28,22,Standard,5,"Fri, Mon, Sun, Tue, Wed",FALSE,"No Favorite Lesson","01:50 PM","03:37 PM",107,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+650,Male,2012-09-15,12,Premium,3,"Fri, Mon, Wed",TRUE,"Kickboxen, HIT","02:54 PM","04:52 PM",118,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+651,Male,2010-09-13,14,Premium,4,"Mon, Sun, Thu, Wed",FALSE,"No Favorite Lesson","08:36 PM","10:20 PM",104,TRUE,passion_fruit,FALSE,"No Trainer",FALSE
+652,Male,2006-08-22,18,Premium,3,"Mon, Sat, Sun",FALSE,"No Favorite Lesson","11:06 AM","01:25 PM",139,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+653,Male,1997-10-25,26,Standard,3,"Mon, Sun, Thu",FALSE,"No Favorite Lesson","01:11 PM","02:21 PM",70,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+654,Male,1978-01-01,46,Premium,1,Sun,FALSE,"No Favorite Lesson","02:38 PM","05:21 PM",163,TRUE,"orange, passion_fruit",FALSE,"No Trainer",TRUE
+655,Male,1996-07-22,28,Standard,2,"Fri, Mon",FALSE,"No Favorite Lesson","09:20 AM","11:57 AM",157,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+656,Male,2011-09-24,13,Standard,5,"Fri, Mon, Sat, Sun, Thu",TRUE,"Yoga, BodyBalance, HIT","05:13 PM","07:00 PM",107,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+657,Male,1984-06-15,40,Premium,2,"Mon, Sat",TRUE,"BodyPump, Pilates","02:58 PM","04:42 PM",104,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+658,Male,1999-01-01,25,Standard,4,"Fri, Mon, Tue, Wed",FALSE,"No Favorite Lesson","07:23 PM","08:48 PM",85,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+659,Female,2006-10-15,17,Standard,3,"Fri, Sat, Sun",FALSE,"No Favorite Lesson","06:02 PM","07:49 PM",107,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+660,Male,1977-06-17,47,Premium,2,"Fri, Sun",FALSE,"No Favorite Lesson","09:58 AM","12:31 PM",153,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+661,Male,2009-12-05,14,Standard,3,"Sat, Sun, Thu",TRUE,"XCore, Pilates, LesMiles","05:02 PM","05:32 PM",30,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+662,Male,1985-12-07,38,Premium,2,"Mon, Wed",TRUE,"Kickboxen, XCore","11:41 AM","12:14 PM",33,TRUE,"lemon, coconut_pineapple",TRUE,Hanna,FALSE
+663,Female,1992-10-12,32,Standard,3,"Sat, Sun, Thu",FALSE,"No Favorite Lesson","02:01 PM","04:17 PM",136,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+664,Female,2011-03-27,13,Standard,1,Thu,FALSE,"No Favorite Lesson","10:20 AM","10:57 AM",37,TRUE,coconut_pineapple,FALSE,"No Trainer",TRUE
+665,Female,1982-11-23,41,Standard,1,Fri,TRUE,BodyPump,"11:45 AM","12:38 PM",53,TRUE,"coconut_pineapple, black_currant",TRUE,Chantal,FALSE
+666,Female,2005-02-18,19,Premium,2,"Mon, Wed",TRUE,Pilates,"10:42 AM","01:29 PM",167,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+667,Male,1976-03-12,48,Premium,2,"Fri, Tue",TRUE,"Spinning, Pilates","11:46 AM","01:17 PM",91,TRUE,"black_currant, coconut_pineapple",FALSE,"No Trainer",TRUE
+668,Female,1988-11-30,35,Standard,3,"Fri, Mon, Sun",TRUE,Pilates,"03:00 PM","05:29 PM",149,TRUE,berry_boost,FALSE,"No Trainer",TRUE
+669,Female,1985-04-07,39,Standard,5,"Mon, Sun, Thu, Tue, Wed",TRUE,HIT,"07:04 PM","08:02 PM",58,TRUE,lemon,FALSE,"No Trainer",TRUE
+670,Female,2001-01-16,23,Premium,4,"Fri, Sat, Sun, Tue",TRUE,"Spinning, BodyBalance, Zumba","09:17 AM","09:49 AM",32,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+671,Male,1985-06-11,39,Premium,3,"Sun, Thu, Wed",FALSE,"No Favorite Lesson","12:36 PM","02:19 PM",103,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+672,Male,1977-01-08,47,Standard,2,"Sun, Wed",TRUE,LesMiles,"08:13 AM","10:18 AM",125,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+673,Female,2009-11-17,14,Premium,5,"Sat, Sun, Thu, Tue, Wed",TRUE,"Yoga, BodyBalance, Zumba","10:49 AM","12:40 PM",111,TRUE,lemon,FALSE,"No Trainer",FALSE
+674,Male,2010-04-14,14,Standard,5,"Sat, Sun, Thu, Tue, Wed",TRUE,"HIT, BodyPump, BodyBalance","08:16 PM","10:33 PM",137,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+675,Female,1983-02-26,41,Standard,1,Sun,FALSE,"No Favorite Lesson","11:52 AM","12:53 PM",61,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+676,Female,1980-06-13,44,Standard,1,Wed,TRUE,"Yoga, BodyPump, BodyBalance","08:17 AM","09:23 AM",66,TRUE,"berry_boost, orange",TRUE,Jeffrey,FALSE
+677,Female,2000-05-16,24,Premium,5,"Fri, Sat, Sun, Thu, Wed",TRUE,"BodyPump, Kickboxen","09:06 AM","10:19 AM",73,TRUE,"passion_fruit, orange",FALSE,"No Trainer",TRUE
+678,Female,1984-11-21,39,Standard,4,"Sat, Sun, Tue, Wed",FALSE,"No Favorite Lesson","01:57 PM","03:41 PM",104,TRUE,passion_fruit,TRUE,Hanna,TRUE
+679,Male,1987-01-11,37,Premium,1,Wed,TRUE,LesMiles,"09:10 AM","10:30 AM",80,TRUE,"orange, black_currant",FALSE,"No Trainer",FALSE
+680,Male,1999-08-20,25,Standard,3,"Thu, Tue, Wed",TRUE,"Pilates, HIT, LesMiles","04:33 PM","06:16 PM",103,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+681,Female,1986-11-21,37,Premium,1,Sat,FALSE,"No Favorite Lesson","09:11 AM","11:33 AM",142,TRUE,black_currant,TRUE,Mike,FALSE
+682,Male,1989-10-27,34,Premium,3,"Fri, Sun, Tue",FALSE,"No Favorite Lesson","10:54 AM","12:49 PM",115,TRUE,passion_fruit,TRUE,Hanna,TRUE
+683,Male,1975-06-05,49,Standard,1,Tue,TRUE,"HIT, Running, Kickboxen","08:23 PM","09:08 PM",45,TRUE,orange,FALSE,"No Trainer",TRUE
+684,Female,2005-12-25,18,Standard,1,Wed,TRUE,Kickboxen,"05:51 PM","08:09 PM",138,TRUE,"coconut_pineapple, berry_boost",FALSE,"No Trainer",TRUE
+685,Male,1981-08-15,43,Standard,2,"Tue, Wed",FALSE,"No Favorite Lesson","06:35 PM","09:16 PM",161,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+686,Female,1994-05-04,30,Premium,3,"Sat, Thu, Wed",FALSE,"No Favorite Lesson","10:16 AM","11:47 AM",91,TRUE,orange,FALSE,"No Trainer",TRUE
+687,Male,1995-02-23,29,Standard,3,"Mon, Sat, Sun",TRUE,"Kickboxen, Running, LesMiles","09:13 AM","11:27 AM",134,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+688,Male,2011-08-05,13,Premium,3,"Mon, Thu, Tue",FALSE,"No Favorite Lesson","08:25 PM","10:44 PM",139,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+689,Female,2011-05-02,13,Standard,5,"Fri, Sun, Thu, Tue, Wed",FALSE,"No Favorite Lesson","09:47 AM","12:16 PM",149,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+690,Male,1979-08-28,45,Premium,3,"Mon, Sat, Tue",FALSE,"No Favorite Lesson","01:10 PM","03:15 PM",125,TRUE,passion_fruit,FALSE,"No Trainer",TRUE
+691,Male,1996-05-06,28,Premium,3,"Sun, Thu, Tue",FALSE,"No Favorite Lesson","10:17 AM","11:47 AM",90,FALSE,"No Favorite Drink",TRUE,Hanna,FALSE
+692,Female,2007-11-30,16,Premium,4,"Mon, Sun, Thu, Tue",TRUE,BodyPump,"04:21 PM","05:38 PM",77,FALSE,"No Favorite Drink",TRUE,Hanna,FALSE
+693,Female,1987-12-14,36,Standard,4,"Sat, Thu, Tue, Wed",FALSE,"No Favorite Lesson","05:34 PM","06:06 PM",32,TRUE,"passion_fruit, coconut_pineapple",TRUE,Jeffrey,FALSE
+694,Female,2005-01-29,19,Standard,2,"Thu, Tue",FALSE,"No Favorite Lesson","04:40 PM","05:37 PM",57,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+695,Female,1997-07-24,27,Standard,1,Mon,FALSE,"No Favorite Lesson","12:30 PM","01:08 PM",38,TRUE,"black_currant, lemon",FALSE,"No Trainer",FALSE
+696,Female,2000-08-02,24,Standard,4,"Mon, Sat, Sun, Thu",TRUE,"BodyPump, LesMiles, HIT","11:43 AM","12:27 PM",44,TRUE,black_currant,FALSE,"No Trainer",FALSE
+697,Male,2002-03-11,22,Standard,5,"Fri, Sat, Sun, Tue, Wed",TRUE,BodyBalance,"10:31 AM","11:48 AM",77,TRUE,black_currant,TRUE,Mike,FALSE
+698,Male,1975-03-21,49,Standard,3,"Fri, Mon, Tue",FALSE,"No Favorite Lesson","02:52 PM","03:25 PM",33,TRUE,"passion_fruit, black_currant",TRUE,Chantal,FALSE
+699,Male,2009-05-06,15,Premium,3,"Fri, Sat, Sun",TRUE,"Yoga, Pilates, HIT","06:06 PM","08:42 PM",156,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+700,Female,1988-12-13,35,Premium,3,"Sat, Tue, Wed",FALSE,"No Favorite Lesson","04:35 PM","05:35 PM",60,TRUE,berry_boost,FALSE,"No Trainer",FALSE
+701,Female,2000-10-14,24,Standard,5,"Mon, Sat, Sun, Thu, Tue",TRUE,"Yoga, BodyBalance, Running","11:19 AM","12:28 PM",69,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+702,Male,1983-09-05,41,Standard,5,"Fri, Sat, Sun, Tue, Wed",FALSE,"No Favorite Lesson","10:22 AM","11:55 AM",93,TRUE,"coconut_pineapple, orange",FALSE,"No Trainer",TRUE
+703,Male,1988-06-18,36,Premium,3,"Sat, Sun, Tue",TRUE,"Pilates, BodyPump, Yoga","04:01 PM","05:40 PM",99,TRUE,black_currant,TRUE,Mike,TRUE
+704,Male,1989-02-16,35,Premium,2,"Sat, Wed",TRUE,"XCore, Yoga, Pilates","08:14 PM","10:30 PM",136,TRUE,passion_fruit,TRUE,Jeffrey,TRUE
+705,Male,1991-11-30,32,Standard,3,"Mon, Sat, Wed",TRUE,"HIT, Yoga, Kickboxen","05:29 PM","06:47 PM",78,TRUE,"passion_fruit, coconut_pineapple",FALSE,"No Trainer",TRUE
+706,Female,1985-06-13,39,Standard,3,"Fri, Sun, Thu",FALSE,"No Favorite Lesson","11:05 AM","11:42 AM",37,TRUE,orange,TRUE,Hanna,FALSE
+707,Male,1996-06-16,28,Premium,5,"Mon, Sat, Sun, Thu, Wed",TRUE,"XCore, Running","01:31 PM","03:39 PM",128,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+708,Male,2001-06-12,23,Premium,2,"Mon, Wed",TRUE,"Pilates, Spinning, Running","06:01 PM","07:30 PM",89,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+709,Male,1983-11-25,40,Standard,3,"Fri, Sun, Wed",TRUE,"HIT, Spinning, XCore","05:58 PM","08:33 PM",155,TRUE,"coconut_pineapple, orange",FALSE,"No Trainer",TRUE
+710,Female,2005-08-19,19,Premium,5,"Fri, Mon, Sat, Thu, Wed",TRUE,"BodyBalance, XCore","10:54 AM","01:17 PM",143,TRUE,"orange, berry_boost",TRUE,Mike,FALSE
+711,Female,1983-03-20,41,Standard,2,"Sat, Sun",TRUE,"Zumba, XCore","09:57 AM","11:42 AM",105,TRUE,"coconut_pineapple, lemon",FALSE,"No Trainer",FALSE
+712,Male,1999-12-08,24,Standard,4,"Fri, Sat, Sun, Wed",TRUE,"XCore, HIT","01:12 PM","02:49 PM",97,FALSE,"No Favorite Drink",TRUE,Hanna,FALSE
+713,Male,1986-11-06,37,Standard,3,"Sun, Thu, Wed",TRUE,"BodyPump, HIT","10:37 AM","12:40 PM",123,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+714,Female,1981-08-19,43,Standard,1,Wed,TRUE,"Kickboxen, LesMiles, Running","10:50 AM","01:11 PM",141,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+715,Male,1981-06-06,43,Premium,3,"Fri, Sun, Tue",FALSE,"No Favorite Lesson","12:02 PM","02:07 PM",125,TRUE,black_currant,TRUE,Mike,TRUE
+716,Female,1995-08-02,29,Standard,4,"Fri, Mon, Sun, Thu",TRUE,"Spinning, Pilates, BodyPump","06:15 PM","06:54 PM",39,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+717,Male,1980-02-07,44,Premium,4,"Sat, Thu, Tue, Wed",FALSE,"No Favorite Lesson","11:10 AM","11:44 AM",34,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+718,Male,1996-11-28,27,Standard,2,"Mon, Thu",TRUE,XCore,"08:32 PM","10:20 PM",108,TRUE,"passion_fruit, orange",FALSE,"No Trainer",FALSE
+719,Male,1990-01-20,34,Standard,5,"Fri, Mon, Sun, Thu, Tue",FALSE,"No Favorite Lesson","08:33 AM","10:29 AM",116,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+720,Male,2006-02-17,18,Standard,4,"Mon, Sun, Thu, Tue",TRUE,"Yoga, Zumba, Pilates","07:42 PM","08:57 PM",75,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+721,Male,1994-07-29,30,Premium,2,"Sat, Wed",FALSE,"No Favorite Lesson","08:38 AM","10:58 AM",140,TRUE,coconut_pineapple,TRUE,Chantal,FALSE
+722,Male,2005-06-12,19,Standard,1,Sun,FALSE,"No Favorite Lesson","11:29 AM","02:26 PM",177,TRUE,"orange, coconut_pineapple",TRUE,Jeffrey,FALSE
+723,Male,1997-09-03,27,Premium,1,Mon,TRUE,BodyPump,"06:22 PM","09:20 PM",178,TRUE,"berry_boost, lemon",FALSE,"No Trainer",TRUE
+724,Male,1977-07-15,47,Premium,2,"Mon, Tue",TRUE,"HIT, Pilates","07:06 PM","07:43 PM",37,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+725,Female,1982-10-12,42,Premium,2,"Thu, Tue",FALSE,"No Favorite Lesson","07:18 PM","09:39 PM",141,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+726,Male,1990-06-17,34,Premium,3,"Mon, Sun, Tue",FALSE,"No Favorite Lesson","10:54 AM","11:32 AM",38,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+727,Male,1985-06-06,39,Premium,4,"Fri, Sat, Sun, Wed",TRUE,"Running, Yoga, Zumba","11:51 AM","12:22 PM",31,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+728,Female,2001-03-17,23,Premium,5,"Mon, Sun, Thu, Tue, Wed",TRUE,"Zumba, BodyPump","08:57 PM","11:35 PM",158,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+729,Male,1983-11-01,40,Standard,3,"Mon, Thu, Tue",FALSE,"No Favorite Lesson","07:38 PM","09:10 PM",92,TRUE,black_currant,TRUE,Chantal,TRUE
+730,Male,1985-07-10,39,Premium,5,"Mon, Sun, Thu, Tue, Wed",FALSE,"No Favorite Lesson","03:28 PM","04:30 PM",62,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+731,Female,2008-05-24,16,Premium,2,"Fri, Wed",TRUE,"XCore, LesMiles","09:10 AM","11:59 AM",169,TRUE,passion_fruit,TRUE,Hanna,FALSE
+732,Female,1991-06-20,33,Premium,4,"Fri, Sat, Thu, Wed",FALSE,"No Favorite Lesson","01:30 PM","02:17 PM",47,TRUE,"orange, coconut_pineapple",TRUE,Hanna,TRUE
+733,Male,1977-01-24,47,Standard,1,Tue,TRUE,"BodyPump, Running","06:15 PM","07:59 PM",104,TRUE,coconut_pineapple,FALSE,"No Trainer",TRUE
+734,Male,1999-12-08,24,Premium,3,"Mon, Thu, Wed",FALSE,"No Favorite Lesson","09:13 AM","11:37 AM",144,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+735,Female,1991-02-05,33,Standard,2,"Fri, Tue",TRUE,HIT,"09:24 AM","12:24 PM",180,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+736,Male,1982-12-16,41,Premium,2,"Mon, Thu",TRUE,"Zumba, BodyPump, HIT","08:54 PM","11:49 PM",175,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+737,Male,1988-03-16,36,Premium,1,Mon,FALSE,"No Favorite Lesson","08:43 AM","10:21 AM",98,TRUE,"black_currant, berry_boost",FALSE,"No Trainer",FALSE
+738,Female,1976-09-28,48,Standard,5,"Mon, Sat, Thu, Tue, Wed",TRUE,Yoga,"11:21 AM","01:42 PM",141,TRUE,coconut_pineapple,TRUE,Jeffrey,TRUE
+739,Female,2003-11-09,20,Premium,3,"Fri, Thu, Wed",FALSE,"No Favorite Lesson","03:28 PM","05:58 PM",150,TRUE,orange,FALSE,"No Trainer",TRUE
+740,Female,2005-06-25,19,Premium,4,"Fri, Sat, Sun, Thu",FALSE,"No Favorite Lesson","11:16 AM","12:38 PM",82,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+741,Male,2009-04-06,15,Standard,2,"Mon, Sun",TRUE,Pilates,"08:07 PM","09:39 PM",92,TRUE,"coconut_pineapple, orange",FALSE,"No Trainer",FALSE
+742,Male,1997-08-27,27,Standard,1,Sun,FALSE,"No Favorite Lesson","06:02 PM","07:46 PM",104,TRUE,"coconut_pineapple, black_currant",FALSE,"No Trainer",FALSE
+743,Male,1992-12-08,31,Standard,2,"Sun, Thu",TRUE,LesMiles,"08:28 PM","09:26 PM",58,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+744,Male,2004-10-02,20,Premium,3,"Mon, Thu, Wed",TRUE,"Yoga, Pilates","10:42 AM","01:13 PM",151,TRUE,orange,TRUE,Mike,FALSE
+745,Female,2011-05-01,13,Standard,3,"Fri, Sat, Wed",TRUE,"BodyBalance, LesMiles, Pilates","01:37 PM","02:09 PM",32,TRUE,passion_fruit,FALSE,"No Trainer",FALSE
+746,Male,2007-08-01,17,Premium,2,"Sat, Tue",TRUE,"Pilates, BodyPump","10:09 AM","11:05 AM",56,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+747,Male,1980-10-25,43,Standard,2,"Fri, Wed",FALSE,"No Favorite Lesson","01:10 PM","02:25 PM",75,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+748,Male,1981-09-01,43,Premium,1,Sat,FALSE,"No Favorite Lesson","07:43 PM","08:24 PM",41,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+749,Female,2012-07-21,12,Premium,2,"Sun, Thu",TRUE,"HIT, Kickboxen, BodyBalance","10:42 AM","12:12 PM",90,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+750,Female,1975-04-26,49,Standard,5,"Fri, Mon, Sun, Tue, Wed",TRUE,"BodyBalance, BodyPump, Running","10:28 AM","11:19 AM",51,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+751,Female,1991-07-02,33,Standard,3,"Fri, Mon, Wed",TRUE,"Spinning, Kickboxen, Zumba","01:11 PM","03:56 PM",165,TRUE,lemon,FALSE,"No Trainer",FALSE
+752,Female,1994-08-05,30,Standard,3,"Fri, Thu, Tue",FALSE,"No Favorite Lesson","08:05 AM","09:06 AM",61,TRUE,coconut_pineapple,TRUE,Jeffrey,FALSE
+753,Female,1995-10-30,28,Premium,3,"Fri, Mon, Thu",FALSE,"No Favorite Lesson","10:11 AM","12:26 PM",135,TRUE,"berry_boost, orange",FALSE,"No Trainer",TRUE
+754,Female,1990-12-09,33,Standard,3,"Fri, Sat, Sun",FALSE,"No Favorite Lesson","03:13 PM","04:46 PM",93,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+755,Female,2008-05-08,16,Standard,3,"Sat, Tue, Wed",FALSE,"No Favorite Lesson","06:39 PM","08:54 PM",135,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+756,Male,1983-05-09,41,Premium,1,Wed,TRUE,BodyBalance,"07:23 PM","08:27 PM",64,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+757,Male,2003-12-30,20,Premium,1,Sun,FALSE,"No Favorite Lesson","11:23 AM","02:01 PM",158,TRUE,coconut_pineapple,FALSE,"No Trainer",TRUE
+758,Female,1997-11-05,26,Standard,5,"Sat, Sun, Thu, Tue, Wed",FALSE,"No Favorite Lesson","03:16 PM","05:20 PM",124,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+759,Male,2005-08-10,19,Standard,3,"Sat, Thu, Tue",TRUE,"Kickboxen, Zumba, LesMiles","01:19 PM","02:44 PM",85,TRUE,lemon,FALSE,"No Trainer",FALSE
+760,Male,1981-05-15,43,Premium,5,"Fri, Mon, Sat, Thu, Wed",TRUE,"XCore, Spinning, BodyPump","09:29 AM","12:05 PM",156,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+761,Male,1983-08-20,41,Standard,1,Sun,TRUE,Yoga,"01:41 PM","04:17 PM",156,TRUE,passion_fruit,TRUE,Mike,FALSE
+762,Female,2001-12-23,22,Standard,2,"Mon, Wed",TRUE,LesMiles,"12:13 PM","02:08 PM",115,TRUE,berry_boost,FALSE,"No Trainer",FALSE
+763,Female,1978-11-22,45,Premium,3,"Fri, Mon, Wed",TRUE,"LesMiles, Kickboxen","03:39 PM","05:34 PM",115,TRUE,"coconut_pineapple, orange",TRUE,Mike,TRUE
+764,Male,2009-10-22,14,Premium,5,"Fri, Mon, Sat, Sun, Tue",TRUE,"XCore, Kickboxen, Yoga","08:10 AM","10:28 AM",138,TRUE,"berry_boost, coconut_pineapple",FALSE,"No Trainer",FALSE
+765,Male,1997-11-09,26,Standard,1,Thu,FALSE,"No Favorite Lesson","02:21 PM","05:17 PM",176,TRUE,orange,FALSE,"No Trainer",FALSE
+766,Female,1978-03-17,46,Premium,1,Thu,TRUE,"Kickboxen, Running","02:44 PM","04:58 PM",134,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+767,Male,1989-07-13,35,Premium,5,"Sat, Sun, Thu, Tue, Wed",FALSE,"No Favorite Lesson","01:07 PM","02:57 PM",110,TRUE,"coconut_pineapple, berry_boost",TRUE,Chantal,FALSE
+768,Male,2005-12-03,18,Standard,2,"Sun, Wed",FALSE,"No Favorite Lesson","02:16 PM","04:57 PM",161,TRUE,"orange, coconut_pineapple",TRUE,Jeffrey,FALSE
+769,Female,1995-07-31,29,Standard,4,"Fri, Sun, Thu, Wed",TRUE,"HIT, LesMiles","01:25 PM","04:19 PM",174,TRUE,lemon,FALSE,"No Trainer",TRUE
+770,Male,1997-09-01,27,Premium,2,"Fri, Sun",FALSE,"No Favorite Lesson","05:22 PM","06:50 PM",88,TRUE,"coconut_pineapple, orange",TRUE,Chantal,FALSE
+771,Female,1988-06-27,36,Premium,1,Wed,FALSE,"No Favorite Lesson","08:00 PM","09:49 PM",109,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+772,Female,1995-01-30,29,Standard,2,"Fri, Tue",FALSE,"No Favorite Lesson","08:52 PM","10:40 PM",108,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+773,Male,1988-06-26,36,Standard,3,"Fri, Sun, Wed",TRUE,Spinning,"06:25 PM","08:10 PM",105,TRUE,passion_fruit,TRUE,Chantal,FALSE
+774,Male,1988-04-18,36,Premium,4,"Mon, Sun, Thu, Wed",FALSE,"No Favorite Lesson","12:32 PM","01:02 PM",30,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+775,Female,2012-03-09,12,Premium,5,"Fri, Mon, Sun, Thu, Tue",TRUE,LesMiles,"09:35 AM","11:45 AM",130,TRUE,black_currant,FALSE,"No Trainer",FALSE
+776,Male,1990-07-20,34,Premium,2,"Mon, Sat",FALSE,"No Favorite Lesson","06:44 PM","07:47 PM",63,TRUE,coconut_pineapple,FALSE,"No Trainer",TRUE
+777,Female,1980-04-18,44,Premium,2,"Mon, Sun",FALSE,"No Favorite Lesson","02:58 PM","05:38 PM",160,TRUE,"lemon, orange",TRUE,Hanna,TRUE
+778,Male,1978-05-27,46,Premium,3,"Mon, Thu, Tue",TRUE,Pilates,"08:17 PM","09:11 PM",54,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+779,Female,1987-09-14,37,Standard,1,Sat,TRUE,HIT,"08:37 AM","10:12 AM",95,TRUE,"orange, passion_fruit",TRUE,Mike,FALSE
+780,Female,2000-01-21,24,Premium,3,"Mon, Sat, Sun",FALSE,"No Favorite Lesson","01:20 PM","02:54 PM",94,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+781,Male,1978-02-28,46,Premium,4,"Mon, Sat, Thu, Wed",TRUE,"Pilates, LesMiles","04:32 PM","06:14 PM",102,TRUE,"lemon, orange",TRUE,Hanna,TRUE
+782,Female,2004-01-12,20,Premium,2,"Sun, Tue",FALSE,"No Favorite Lesson","02:03 PM","04:48 PM",165,TRUE,orange,TRUE,Hanna,TRUE
+783,Male,1991-12-16,32,Standard,3,"Fri, Sun, Tue",TRUE,"XCore, Spinning","12:16 PM","01:03 PM",47,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+784,Female,1997-11-22,26,Standard,3,"Thu, Tue, Wed",FALSE,"No Favorite Lesson","09:38 AM","10:45 AM",67,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+785,Female,1985-10-16,38,Standard,1,Fri,TRUE,BodyPump,"06:29 PM","08:58 PM",149,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+786,Female,1979-09-19,45,Premium,4,"Fri, Thu, Tue, Wed",FALSE,"No Favorite Lesson","07:32 PM","08:18 PM",46,TRUE,"orange, coconut_pineapple",FALSE,"No Trainer",FALSE
+787,Female,2003-11-17,20,Standard,1,Fri,FALSE,"No Favorite Lesson","11:35 AM","01:30 PM",115,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+788,Male,1976-04-13,48,Standard,3,"Mon, Sat, Tue",FALSE,"No Favorite Lesson","07:44 PM","08:51 PM",67,TRUE,coconut_pineapple,FALSE,"No Trainer",FALSE
+789,Female,1982-11-16,41,Premium,4,"Fri, Mon, Thu, Wed",FALSE,"No Favorite Lesson","05:08 PM","06:16 PM",68,TRUE,"coconut_pineapple, black_currant",TRUE,Jeffrey,FALSE
+790,Male,1999-12-27,24,Standard,2,"Sun, Thu",FALSE,"No Favorite Lesson","01:22 PM","02:37 PM",75,TRUE,"berry_boost, black_currant",TRUE,Jeffrey,FALSE
+791,Female,1977-06-26,47,Standard,3,"Sat, Thu, Tue",FALSE,"No Favorite Lesson","04:49 PM","07:46 PM",177,TRUE,"berry_boost, orange",FALSE,"No Trainer",FALSE
+792,Female,1982-05-14,42,Premium,3,"Mon, Sun, Thu",TRUE,"HIT, Spinning","11:44 AM","01:19 PM",95,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+793,Male,1990-10-16,33,Standard,1,Fri,TRUE,"Running, Pilates, XCore","04:06 PM","05:02 PM",56,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+794,Female,2000-04-19,24,Standard,4,"Mon, Sat, Sun, Thu",FALSE,"No Favorite Lesson","05:17 PM","08:05 PM",168,TRUE,"black_currant, coconut_pineapple",FALSE,"No Trainer",FALSE
+795,Male,1995-02-18,29,Standard,1,Tue,TRUE,"LesMiles, Running, Zumba","12:59 PM","02:02 PM",63,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+796,Female,1994-10-06,30,Standard,4,"Fri, Mon, Sat, Wed",TRUE,HIT,"09:21 AM","11:31 AM",130,TRUE,"berry_boost, black_currant",TRUE,Jeffrey,TRUE
+797,Male,1978-01-21,46,Standard,5,"Fri, Mon, Sat, Tue, Wed",TRUE,"Spinning, Yoga","09:41 AM","12:38 PM",177,TRUE,orange,TRUE,Chantal,TRUE
+798,Male,1988-03-02,36,Standard,1,Tue,TRUE,BodyBalance,"08:44 PM","10:22 PM",98,TRUE,black_currant,TRUE,Chantal,TRUE
+799,Female,1995-08-12,29,Standard,4,"Mon, Sat, Tue, Wed",TRUE,"Running, Spinning","09:11 AM","10:48 AM",97,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+800,Female,1990-08-27,34,Premium,3,"Fri, Sun, Wed",FALSE,"No Favorite Lesson","09:21 AM","11:11 AM",110,TRUE,lemon,FALSE,"No Trainer",FALSE
+801,Female,1977-07-23,47,Standard,2,"Fri, Tue",TRUE,"LesMiles, Yoga","07:19 PM","08:50 PM",91,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+802,Female,1997-11-10,26,Premium,2,"Sun, Thu",TRUE,Spinning,"08:00 AM","09:42 AM",102,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+803,Female,1983-07-06,41,Standard,3,"Fri, Mon, Wed",FALSE,"No Favorite Lesson","09:26 AM","10:35 AM",69,TRUE,passion_fruit,FALSE,"No Trainer",TRUE
+804,Male,2006-05-20,18,Premium,4,"Mon, Sat, Thu, Wed",FALSE,"No Favorite Lesson","08:59 AM","10:43 AM",104,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+805,Female,1976-06-04,48,Premium,2,"Mon, Thu",TRUE,"BodyPump, XCore, Zumba","08:15 AM","10:01 AM",106,TRUE,lemon,TRUE,Jeffrey,TRUE
+806,Female,1999-07-20,25,Premium,5,"Fri, Sat, Sun, Thu, Tue",FALSE,"No Favorite Lesson","04:13 PM","06:45 PM",152,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+807,Female,1984-04-10,40,Premium,4,"Sat, Sun, Thu, Tue",TRUE,Yoga,"07:35 PM","09:08 PM",93,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+808,Female,1997-05-05,27,Premium,4,"Mon, Sun, Thu, Wed",FALSE,"No Favorite Lesson","04:32 PM","06:42 PM",130,TRUE,orange,TRUE,Hanna,FALSE
+809,Female,1989-11-20,34,Premium,2,"Fri, Sun",FALSE,"No Favorite Lesson","01:25 PM","04:17 PM",172,TRUE,berry_boost,FALSE,"No Trainer",FALSE
+810,Male,1994-09-24,30,Premium,2,"Sun, Wed",TRUE,"BodyBalance, Yoga, Running","02:19 PM","04:18 PM",119,TRUE,"orange, berry_boost",TRUE,Chantal,FALSE
+811,Male,1994-03-19,30,Premium,2,"Sat, Thu",FALSE,"No Favorite Lesson","11:18 AM","01:15 PM",117,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+812,Male,2005-06-15,19,Premium,1,Wed,TRUE,LesMiles,"02:30 PM","05:29 PM",179,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+813,Male,1975-06-22,49,Standard,5,"Mon, Sat, Sun, Thu, Tue",FALSE,"No Favorite Lesson","02:07 PM","03:03 PM",56,TRUE,"berry_boost, orange",FALSE,"No Trainer",FALSE
+814,Female,1996-12-13,27,Standard,1,Sun,TRUE,Spinning,"03:34 PM","05:58 PM",144,TRUE,berry_boost,TRUE,Chantal,TRUE
+815,Female,1986-08-06,38,Premium,1,Tue,FALSE,"No Favorite Lesson","02:12 PM","02:59 PM",47,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+816,Male,1977-05-28,47,Standard,2,"Sat, Thu",FALSE,"No Favorite Lesson","12:18 PM","01:33 PM",75,TRUE,orange,TRUE,Mike,FALSE
+817,Female,1985-08-31,39,Standard,3,"Sat, Sun, Tue",FALSE,"No Favorite Lesson","05:06 PM","06:10 PM",64,TRUE,coconut_pineapple,TRUE,Jeffrey,FALSE
+818,Male,2006-12-16,17,Standard,3,"Fri, Mon, Tue",TRUE,"Pilates, Running, BodyPump","11:51 AM","02:30 PM",159,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+819,Female,2003-11-14,20,Standard,3,"Fri, Thu, Tue",FALSE,"No Favorite Lesson","08:23 AM","11:22 AM",179,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+820,Female,2009-07-13,15,Standard,3,"Fri, Sun, Thu",FALSE,"No Favorite Lesson","02:33 PM","04:48 PM",135,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+821,Female,1986-08-18,38,Premium,3,"Sat, Sun, Wed",TRUE,XCore,"01:20 PM","02:42 PM",82,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+822,Male,1975-10-11,49,Premium,3,"Mon, Sat, Sun",FALSE,"No Favorite Lesson","07:44 PM","08:26 PM",42,TRUE,"orange, black_currant",TRUE,Chantal,TRUE
+823,Female,1995-10-19,28,Standard,4,"Fri, Sat, Sun, Wed",FALSE,"No Favorite Lesson","04:33 PM","05:11 PM",38,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+824,Female,1986-07-21,38,Standard,5,"Fri, Sat, Sun, Thu, Tue",FALSE,"No Favorite Lesson","05:59 PM","08:54 PM",175,TRUE,passion_fruit,FALSE,"No Trainer",TRUE
+825,Male,1975-07-30,49,Premium,3,"Sat, Sun, Tue",TRUE,"Zumba, BodyPump","10:53 AM","01:29 PM",156,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+826,Female,1992-02-26,32,Standard,1,Sat,FALSE,"No Favorite Lesson","05:58 PM","07:58 PM",120,TRUE,lemon,FALSE,"No Trainer",TRUE
+827,Male,2006-02-28,18,Standard,3,"Mon, Thu, Wed",TRUE,Running,"02:33 PM","03:35 PM",62,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+828,Female,2006-03-31,18,Premium,2,"Sat, Tue",TRUE,"Yoga, Spinning","03:53 PM","04:42 PM",49,FALSE,"No Favorite Drink",TRUE,Hanna,FALSE
+829,Male,1984-06-21,40,Premium,2,"Sat, Wed",TRUE,"Kickboxen, BodyPump","09:40 AM","10:18 AM",38,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+830,Male,1982-03-30,42,Premium,5,"Mon, Sat, Sun, Thu, Wed",TRUE,"LesMiles, XCore, BodyPump","12:05 PM","02:14 PM",129,TRUE,"berry_boost, passion_fruit",TRUE,Mike,FALSE
+831,Male,1996-09-27,28,Standard,4,"Fri, Sat, Thu, Wed",FALSE,"No Favorite Lesson","09:35 AM","11:56 AM",141,TRUE,berry_boost,TRUE,Mike,TRUE
+832,Female,2008-07-27,16,Premium,1,Wed,FALSE,"No Favorite Lesson","08:41 AM","11:33 AM",172,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+833,Female,1999-11-22,24,Standard,2,"Sun, Tue",TRUE,"BodyBalance, Pilates","05:44 PM","08:02 PM",138,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+834,Male,2010-03-28,14,Standard,3,"Sat, Sun, Wed",FALSE,"No Favorite Lesson","07:16 PM","10:13 PM",177,TRUE,passion_fruit,TRUE,Hanna,FALSE
+835,Female,2003-11-08,20,Premium,3,"Fri, Thu, Tue",FALSE,"No Favorite Lesson","03:37 PM","06:07 PM",150,FALSE,"No Favorite Drink",TRUE,Hanna,FALSE
+836,Female,1983-09-20,41,Standard,1,Fri,TRUE,"HIT, LesMiles","09:46 AM","11:10 AM",84,TRUE,black_currant,TRUE,Chantal,FALSE
+837,Male,2000-12-24,23,Premium,2,"Fri, Tue",FALSE,"No Favorite Lesson","07:11 PM","08:19 PM",68,TRUE,"coconut_pineapple, lemon",TRUE,Chantal,TRUE
+838,Male,1975-07-29,49,Standard,3,"Fri, Sat, Thu",TRUE,"Zumba, Running","08:40 PM","09:24 PM",44,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+839,Female,1978-12-24,45,Standard,2,"Thu, Wed",FALSE,"No Favorite Lesson","08:54 AM","10:19 AM",85,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+840,Female,1975-11-12,48,Standard,2,"Fri, Tue",FALSE,"No Favorite Lesson","08:26 PM","10:46 PM",140,FALSE,"No Favorite Drink",TRUE,Hanna,FALSE
+841,Female,1995-09-16,29,Standard,3,"Mon, Sat, Sun",FALSE,"No Favorite Lesson","11:00 AM","12:12 PM",72,TRUE,"orange, black_currant",FALSE,"No Trainer",FALSE
+842,Female,1993-04-29,31,Standard,5,"Fri, Sat, Sun, Tue, Wed",TRUE,"Pilates, BodyBalance, Spinning","09:47 AM","11:32 AM",105,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+843,Female,1995-03-12,29,Premium,1,Wed,TRUE,BodyBalance,"07:10 PM","09:32 PM",142,TRUE,"black_currant, coconut_pineapple",TRUE,Mike,FALSE
+844,Male,1981-10-11,43,Premium,3,"Fri, Sat, Thu",TRUE,"Kickboxen, LesMiles, BodyPump","01:40 PM","04:26 PM",166,TRUE,"passion_fruit, orange",TRUE,Mike,TRUE
+845,Male,1995-01-05,29,Standard,2,"Sun, Wed",FALSE,"No Favorite Lesson","05:09 PM","06:06 PM",57,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+846,Male,1979-01-14,45,Standard,2,"Sat, Tue",TRUE,HIT,"03:59 PM","06:46 PM",167,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+847,Male,1994-11-10,29,Standard,1,Thu,FALSE,"No Favorite Lesson","08:43 PM","09:57 PM",74,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+848,Male,2000-06-20,24,Standard,3,"Sat, Thu, Wed",TRUE,"Spinning, HIT","12:00 PM","02:08 PM",128,TRUE,lemon,FALSE,"No Trainer",TRUE
+849,Female,1985-04-18,39,Premium,3,"Sat, Tue, Wed",TRUE,"Pilates, Spinning","04:37 PM","05:45 PM",68,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+850,Male,1991-03-21,33,Standard,2,"Sat, Thu",TRUE,LesMiles,"02:56 PM","03:57 PM",61,TRUE,black_currant,TRUE,Mike,TRUE
+851,Female,2007-08-23,17,Standard,2,"Tue, Wed",FALSE,"No Favorite Lesson","08:06 AM","08:47 AM",41,TRUE,"berry_boost, coconut_pineapple",FALSE,"No Trainer",TRUE
+852,Female,1989-08-17,35,Standard,4,"Mon, Thu, Tue, Wed",FALSE,"No Favorite Lesson","03:43 PM","06:41 PM",178,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+853,Male,1985-07-13,39,Premium,3,"Fri, Mon, Sun",TRUE,HIT,"12:16 PM","12:49 PM",33,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+854,Female,1998-10-29,25,Premium,2,"Tue, Wed",FALSE,"No Favorite Lesson","08:20 PM","11:10 PM",170,TRUE,"berry_boost, lemon",FALSE,"No Trainer",FALSE
+855,Male,2010-03-21,14,Premium,1,Fri,FALSE,"No Favorite Lesson","12:10 PM","01:42 PM",92,TRUE,berry_boost,FALSE,"No Trainer",TRUE
+856,Female,1984-09-05,40,Standard,3,"Fri, Sun, Thu",TRUE,"HIT, Yoga, BodyPump","05:05 PM","07:39 PM",154,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+857,Female,1999-04-06,25,Premium,1,Sat,FALSE,"No Favorite Lesson","03:55 PM","04:50 PM",55,TRUE,"passion_fruit, berry_boost",FALSE,"No Trainer",TRUE
+858,Female,1988-01-30,36,Premium,2,"Sat, Sun",TRUE,"HIT, BodyBalance","10:20 AM","01:02 PM",162,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+859,Male,1999-01-01,25,Premium,3,"Fri, Mon, Tue",TRUE,"HIT, LesMiles, BodyBalance","02:45 PM","03:48 PM",63,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+860,Female,1999-12-16,24,Premium,2,"Sat, Thu",TRUE,"HIT, XCore, Pilates","06:33 PM","08:28 PM",115,TRUE,"orange, black_currant",FALSE,"No Trainer",FALSE
+861,Female,1989-04-08,35,Premium,2,"Fri, Sun",TRUE,"BodyPump, Spinning","02:22 PM","03:43 PM",81,TRUE,black_currant,FALSE,"No Trainer",FALSE
+862,Male,1993-01-02,31,Standard,4,"Fri, Mon, Sat, Sun",TRUE,"LesMiles, Kickboxen","05:19 PM","07:40 PM",141,TRUE,"passion_fruit, coconut_pineapple",TRUE,Mike,FALSE
+863,Male,1992-09-03,32,Premium,5,"Sat, Sun, Thu, Tue, Wed",FALSE,"No Favorite Lesson","11:08 AM","01:20 PM",132,TRUE,"berry_boost, orange",FALSE,"No Trainer",TRUE
+864,Male,1976-09-24,48,Premium,3,"Fri, Sat, Sun",TRUE,"BodyBalance, LesMiles","04:01 PM","06:16 PM",135,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+865,Male,1979-03-18,45,Standard,4,"Sat, Sun, Thu, Tue",FALSE,"No Favorite Lesson","11:19 AM","12:16 PM",57,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+866,Female,2002-07-10,22,Premium,3,"Fri, Thu, Wed",TRUE,Zumba,"11:46 AM","01:47 PM",121,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+867,Female,1984-12-08,39,Standard,5,"Sat, Sun, Thu, Tue, Wed",TRUE,"LesMiles, BodyBalance","04:05 PM","06:42 PM",157,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+868,Female,1979-02-03,45,Standard,2,"Fri, Wed",TRUE,"BodyBalance, Zumba","06:26 PM","09:21 PM",175,TRUE,"orange, passion_fruit",TRUE,Mike,FALSE
+869,Female,2007-04-29,17,Standard,2,"Tue, Wed",TRUE,LesMiles,"12:09 PM","02:55 PM",166,TRUE,"orange, berry_boost",TRUE,Mike,TRUE
+870,Male,1989-10-13,35,Standard,2,"Sat, Sun",TRUE,HIT,"12:59 PM","02:42 PM",103,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+871,Female,1991-07-09,33,Premium,5,"Fri, Sat, Sun, Thu, Tue",TRUE,"XCore, Running, LesMiles","12:21 PM","02:23 PM",122,TRUE,"berry_boost, coconut_pineapple",FALSE,"No Trainer",TRUE
+872,Male,2010-07-23,14,Standard,2,"Mon, Wed",FALSE,"No Favorite Lesson","09:46 AM","10:56 AM",70,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+873,Male,1984-05-26,40,Standard,1,Thu,FALSE,"No Favorite Lesson","08:27 PM","09:57 PM",90,TRUE,"berry_boost, lemon",FALSE,"No Trainer",FALSE
+874,Female,2001-08-21,23,Premium,2,"Thu, Tue",TRUE,"BodyBalance, Spinning","02:42 PM","04:56 PM",134,TRUE,"passion_fruit, orange",TRUE,Jeffrey,FALSE
+875,Male,2010-01-16,14,Premium,2,"Fri, Tue",TRUE,"BodyPump, Zumba, Running","01:45 PM","04:26 PM",161,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+876,Female,2012-01-17,12,Standard,5,"Mon, Sun, Thu, Tue, Wed",TRUE,Running,"06:32 PM","07:28 PM",56,TRUE,passion_fruit,FALSE,"No Trainer",TRUE
+877,Male,2009-05-07,15,Standard,2,"Fri, Sun",FALSE,"No Favorite Lesson","09:12 AM","11:42 AM",150,FALSE,"No Favorite Drink",TRUE,Hanna,FALSE
+878,Female,2004-06-09,20,Premium,3,"Sun, Tue, Wed",FALSE,"No Favorite Lesson","02:04 PM","04:42 PM",158,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+879,Female,2002-12-22,21,Premium,3,"Mon, Sun, Thu",FALSE,"No Favorite Lesson","10:39 AM","12:37 PM",118,TRUE,orange,TRUE,Chantal,FALSE
+880,Female,1995-02-05,29,Premium,2,"Fri, Sun",FALSE,"No Favorite Lesson","11:02 AM","12:22 PM",80,TRUE,"orange, coconut_pineapple",TRUE,Chantal,TRUE
+881,Male,2000-09-22,24,Standard,3,"Sat, Sun, Tue",FALSE,"No Favorite Lesson","10:46 AM","12:59 PM",133,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+882,Female,1995-04-14,29,Standard,2,"Fri, Sat",FALSE,"No Favorite Lesson","03:39 PM","05:59 PM",140,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+883,Female,2010-10-04,14,Premium,3,"Fri, Mon, Tue",TRUE,Spinning,"03:31 PM","06:22 PM",171,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+884,Male,1975-06-21,49,Standard,1,Tue,TRUE,"HIT, BodyPump, XCore","04:18 PM","05:35 PM",77,TRUE,orange,FALSE,"No Trainer",FALSE
+885,Female,1987-08-04,37,Standard,3,"Sun, Thu, Tue",FALSE,"No Favorite Lesson","02:33 PM","03:10 PM",37,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+886,Female,2005-03-20,19,Standard,4,"Sat, Thu, Tue, Wed",TRUE,HIT,"03:47 PM","06:01 PM",134,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+887,Male,2000-10-24,23,Premium,2,"Fri, Tue",FALSE,"No Favorite Lesson","07:04 PM","07:56 PM",52,TRUE,"orange, berry_boost",FALSE,"No Trainer",TRUE
+888,Female,1990-07-19,34,Premium,2,"Fri, Tue",FALSE,"No Favorite Lesson","05:02 PM","06:36 PM",94,TRUE,passion_fruit,TRUE,Mike,TRUE
+889,Male,2006-02-23,18,Premium,3,"Fri, Mon, Thu",TRUE,"Spinning, Running, BodyBalance","11:41 AM","01:08 PM",87,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+890,Male,1997-08-28,27,Premium,3,"Sat, Thu, Wed",FALSE,"No Favorite Lesson","08:18 PM","10:20 PM",122,TRUE,passion_fruit,TRUE,Hanna,FALSE
+891,Male,1977-09-19,47,Premium,5,"Sat, Sun, Thu, Tue, Wed",FALSE,"No Favorite Lesson","11:26 AM","12:55 PM",89,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+892,Male,1993-11-25,30,Standard,2,"Sun, Wed",FALSE,"No Favorite Lesson","12:22 PM","03:01 PM",159,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+893,Male,1984-09-13,40,Premium,2,"Sat, Tue",TRUE,"Pilates, HIT, Running","08:33 PM","09:52 PM",79,TRUE,"berry_boost, orange",TRUE,Jeffrey,TRUE
+894,Female,2004-03-21,20,Standard,1,Tue,TRUE,"XCore, HIT, Zumba","03:06 PM","04:40 PM",94,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+895,Male,1988-06-14,36,Premium,3,"Mon, Sat, Tue",FALSE,"No Favorite Lesson","04:53 PM","06:09 PM",76,FALSE,"No Favorite Drink",TRUE,Hanna,FALSE
+896,Female,1979-05-08,45,Premium,4,"Fri, Sun, Thu, Tue",FALSE,"No Favorite Lesson","10:05 AM","10:55 AM",50,TRUE,"coconut_pineapple, passion_fruit",TRUE,Hanna,TRUE
+897,Female,1987-11-06,36,Premium,3,"Sat, Sun, Tue",TRUE,"Pilates, HIT, Zumba","09:39 AM","11:08 AM",89,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+898,Female,1987-10-27,36,Premium,1,Fri,FALSE,"No Favorite Lesson","11:05 AM","12:28 PM",83,TRUE,"orange, black_currant",FALSE,"No Trainer",TRUE
+899,Male,2008-03-27,16,Standard,1,Mon,TRUE,"XCore, Yoga","12:59 PM","02:06 PM",67,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+900,Female,2000-07-08,24,Standard,3,"Fri, Sat, Wed",FALSE,"No Favorite Lesson","07:13 PM","08:02 PM",49,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+901,Female,1988-05-27,36,Premium,1,Wed,FALSE,"No Favorite Lesson","05:30 PM","06:40 PM",70,TRUE,coconut_pineapple,FALSE,"No Trainer",FALSE
+902,Female,1984-01-14,40,Standard,1,Sun,TRUE,"BodyPump, Spinning","04:03 PM","05:49 PM",106,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+903,Female,1984-03-14,40,Premium,2,"Fri, Thu",TRUE,XCore,"07:07 PM","09:24 PM",137,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+904,Female,2010-01-10,14,Premium,2,"Sat, Sun",FALSE,"No Favorite Lesson","10:09 AM","11:15 AM",66,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+905,Female,1991-08-29,33,Premium,1,Wed,FALSE,"No Favorite Lesson","02:09 PM","04:46 PM",157,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+906,Male,1981-09-22,43,Standard,1,Sun,FALSE,"No Favorite Lesson","09:22 AM","10:15 AM",53,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+907,Male,1976-07-28,48,Standard,2,"Thu, Wed",TRUE,"Zumba, HIT, XCore","03:12 PM","05:17 PM",125,TRUE,"berry_boost, black_currant",FALSE,"No Trainer",FALSE
+908,Female,2012-03-22,12,Standard,5,"Fri, Mon, Sun, Thu, Wed",FALSE,"No Favorite Lesson","10:25 AM","12:18 PM",113,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+909,Male,1985-01-23,39,Premium,4,"Sun, Thu, Tue, Wed",TRUE,"BodyBalance, LesMiles","01:35 PM","02:37 PM",62,TRUE,"lemon, coconut_pineapple",TRUE,Chantal,TRUE
+910,Male,1994-09-05,30,Premium,3,"Sat, Sun, Wed",TRUE,Pilates,"11:09 AM","12:25 PM",76,TRUE,"berry_boost, black_currant",FALSE,"No Trainer",TRUE
+911,Female,2000-06-07,24,Standard,3,"Mon, Sat, Sun",TRUE,XCore,"08:53 PM","09:33 PM",40,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+912,Female,1977-08-19,47,Standard,1,Mon,FALSE,"No Favorite Lesson","07:32 PM","08:22 PM",50,TRUE,lemon,FALSE,"No Trainer",FALSE
+913,Male,1989-11-26,34,Standard,1,Sun,TRUE,"LesMiles, Running, Zumba","02:47 PM","04:49 PM",122,TRUE,"black_currant, passion_fruit",FALSE,"No Trainer",FALSE
+914,Male,1994-06-02,30,Premium,1,Fri,FALSE,"No Favorite Lesson","05:41 PM","06:58 PM",77,TRUE,lemon,FALSE,"No Trainer",TRUE
+915,Female,2001-04-12,23,Standard,1,Wed,TRUE,"Kickboxen, Pilates","07:00 PM","07:49 PM",49,TRUE,"passion_fruit, coconut_pineapple",FALSE,"No Trainer",TRUE
+916,Male,2000-08-14,24,Standard,1,Fri,TRUE,"Kickboxen, LesMiles, HIT","03:05 PM","05:23 PM",138,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+917,Male,2011-06-28,13,Standard,2,"Thu, Wed",FALSE,"No Favorite Lesson","07:29 PM","09:02 PM",93,TRUE,coconut_pineapple,FALSE,"No Trainer",TRUE
+918,Female,2006-05-28,18,Standard,4,"Sun, Thu, Tue, Wed",FALSE,"No Favorite Lesson","11:23 AM","02:03 PM",160,TRUE,black_currant,FALSE,"No Trainer",FALSE
+919,Male,1979-07-23,45,Premium,5,"Fri, Sat, Sun, Thu, Tue",FALSE,"No Favorite Lesson","07:43 PM","09:01 PM",78,TRUE,"passion_fruit, black_currant",FALSE,"No Trainer",FALSE
+920,Female,1983-02-20,41,Standard,1,Sat,FALSE,"No Favorite Lesson","10:23 AM","11:30 AM",67,TRUE,passion_fruit,FALSE,"No Trainer",FALSE
+921,Female,2011-02-04,13,Premium,1,Tue,TRUE,"BodyPump, Pilates","12:39 PM","01:13 PM",34,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+922,Female,1989-11-29,34,Standard,1,Wed,TRUE,BodyBalance,"10:28 AM","12:20 PM",112,TRUE,"berry_boost, orange",TRUE,Chantal,FALSE
+923,Female,1981-09-05,43,Standard,1,Mon,FALSE,"No Favorite Lesson","03:04 PM","05:05 PM",121,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+924,Male,1985-05-11,39,Premium,2,"Mon, Thu",FALSE,"No Favorite Lesson","05:57 PM","07:45 PM",108,TRUE,"coconut_pineapple, berry_boost",TRUE,Jeffrey,TRUE
+925,Female,2011-08-16,13,Premium,3,"Sat, Thu, Wed",TRUE,"BodyPump, Spinning, XCore","01:47 PM","03:04 PM",77,TRUE,"lemon, berry_boost",FALSE,"No Trainer",FALSE
+926,Male,2001-11-09,22,Standard,5,"Fri, Sun, Thu, Tue, Wed",FALSE,"No Favorite Lesson","09:16 AM","12:08 PM",172,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+927,Male,2001-03-13,23,Standard,3,"Mon, Sun, Thu",TRUE,"Spinning, Pilates, Zumba","10:03 AM","12:22 PM",139,TRUE,"berry_boost, coconut_pineapple",TRUE,Hanna,FALSE
+928,Female,1987-09-17,37,Premium,3,"Sun, Tue, Wed",FALSE,"No Favorite Lesson","05:33 PM","07:57 PM",144,TRUE,berry_boost,FALSE,"No Trainer",FALSE
+929,Male,1994-11-07,29,Premium,5,"Fri, Mon, Sat, Thu, Wed",TRUE,"Pilates, BodyPump, Yoga","09:38 AM","10:39 AM",61,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+930,Female,2001-08-15,23,Premium,5,"Fri, Mon, Sat, Thu, Wed",FALSE,"No Favorite Lesson","01:57 PM","04:26 PM",149,TRUE,lemon,FALSE,"No Trainer",FALSE
+931,Female,2001-09-20,23,Standard,5,"Fri, Mon, Sun, Tue, Wed",FALSE,"No Favorite Lesson","04:33 PM","06:03 PM",90,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+932,Male,1997-03-28,27,Premium,3,"Fri, Sat, Thu",TRUE,Yoga,"10:48 AM","01:15 PM",147,TRUE,"coconut_pineapple, lemon",FALSE,"No Trainer",FALSE
+933,Female,2009-07-08,15,Premium,1,Fri,TRUE,BodyPump,"07:06 PM","09:17 PM",131,TRUE,"black_currant, coconut_pineapple",TRUE,Mike,FALSE
+934,Female,1983-02-25,41,Premium,5,"Fri, Sat, Thu, Tue, Wed",FALSE,"No Favorite Lesson","01:53 PM","04:05 PM",132,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+935,Female,2009-05-29,15,Standard,2,"Sun, Wed",FALSE,"No Favorite Lesson","12:35 PM","02:06 PM",91,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+936,Male,2010-12-06,13,Premium,3,"Mon, Thu, Wed",TRUE,"BodyPump, LesMiles, Pilates","03:31 PM","04:07 PM",36,TRUE,orange,FALSE,"No Trainer",TRUE
+937,Male,1975-08-05,49,Premium,3,"Sat, Sun, Tue",TRUE,Zumba,"10:55 AM","12:18 PM",83,TRUE,orange,FALSE,"No Trainer",TRUE
+938,Male,1992-10-11,32,Standard,3,"Mon, Sun, Thu",TRUE,"Yoga, HIT, LesMiles","09:57 AM","12:09 PM",132,TRUE,black_currant,TRUE,Mike,TRUE
+939,Female,1981-10-08,43,Premium,5,"Mon, Sat, Sun, Tue, Wed",FALSE,"No Favorite Lesson","12:50 PM","03:20 PM",150,TRUE,berry_boost,TRUE,Jeffrey,TRUE
+940,Female,1991-06-21,33,Premium,2,"Mon, Wed",TRUE,BodyBalance,"08:25 PM","11:16 PM",171,TRUE,coconut_pineapple,FALSE,"No Trainer",FALSE
+941,Male,1978-12-21,45,Premium,3,"Fri, Sat, Sun",FALSE,"No Favorite Lesson","10:21 AM","12:38 PM",137,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+942,Male,1981-03-08,43,Standard,3,"Thu, Tue, Wed",FALSE,"No Favorite Lesson","10:47 AM","01:15 PM",148,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+943,Male,1984-02-22,40,Standard,3,"Sun, Thu, Wed",FALSE,"No Favorite Lesson","11:58 AM","02:31 PM",153,TRUE,coconut_pineapple,TRUE,Mike,FALSE
+944,Female,1993-09-29,31,Standard,5,"Fri, Sat, Sun, Thu, Wed",FALSE,"No Favorite Lesson","09:41 AM","12:05 PM",144,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+945,Female,1975-11-29,48,Standard,2,"Thu, Wed",FALSE,"No Favorite Lesson","05:14 PM","08:05 PM",171,FALSE,"No Favorite Drink",TRUE,Jeffrey,TRUE
+946,Male,2003-02-14,21,Premium,3,"Mon, Sat, Wed",FALSE,"No Favorite Lesson","01:49 PM","02:55 PM",66,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+947,Female,2006-07-10,18,Standard,4,"Fri, Mon, Sat, Thu",FALSE,"No Favorite Lesson","09:42 AM","10:46 AM",64,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+948,Female,2000-03-27,24,Premium,2,"Mon, Tue",TRUE,"Spinning, LesMiles, BodyPump","11:39 AM","01:24 PM",105,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+949,Male,1990-07-08,34,Standard,2,"Fri, Mon",FALSE,"No Favorite Lesson","05:01 PM","07:09 PM",128,FALSE,"No Favorite Drink",TRUE,Hanna,FALSE
+950,Female,2001-10-31,22,Standard,5,"Fri, Mon, Sat, Sun, Wed",TRUE,Running,"03:44 PM","05:05 PM",81,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+951,Female,2002-11-03,21,Premium,5,"Fri, Mon, Sat, Tue, Wed",TRUE,"HIT, Pilates","11:36 AM","02:23 PM",167,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+952,Male,1982-03-09,42,Standard,4,"Mon, Sat, Sun, Tue",TRUE,"Zumba, Pilates","07:21 PM","09:49 PM",148,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+953,Female,1977-06-25,47,Standard,2,"Mon, Wed",TRUE,"BodyPump, Zumba","06:47 PM","09:35 PM",168,TRUE,"berry_boost, orange",FALSE,"No Trainer",FALSE
+954,Male,1979-12-10,44,Premium,5,"Fri, Sat, Sun, Thu, Tue",TRUE,"HIT, Kickboxen","03:27 PM","05:39 PM",132,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+955,Male,1986-01-23,38,Standard,3,"Fri, Tue, Wed",TRUE,"BodyBalance, HIT","12:46 PM","01:49 PM",63,TRUE,lemon,TRUE,Mike,TRUE
+956,Female,2010-08-27,14,Premium,2,"Sat, Sun",TRUE,Kickboxen,"02:18 PM","03:13 PM",55,TRUE,"lemon, coconut_pineapple",FALSE,"No Trainer",TRUE
+957,Female,2005-07-14,19,Premium,3,"Sat, Sun, Thu",FALSE,"No Favorite Lesson","05:43 PM","06:34 PM",51,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+958,Female,2010-03-25,14,Standard,3,"Fri, Sun, Thu",TRUE,Yoga,"01:59 PM","04:41 PM",162,TRUE,lemon,FALSE,"No Trainer",TRUE
+959,Female,2003-04-12,21,Premium,3,"Fri, Sat, Tue",FALSE,"No Favorite Lesson","09:22 AM","10:52 AM",90,TRUE,black_currant,TRUE,Hanna,FALSE
+960,Female,1993-02-23,31,Standard,3,"Fri, Sat, Tue",FALSE,"No Favorite Lesson","10:14 AM","01:13 PM",179,FALSE,"No Favorite Drink",TRUE,Chantal,TRUE
+961,Female,1990-12-24,33,Premium,4,"Fri, Mon, Sun, Thu",FALSE,"No Favorite Lesson","10:24 AM","11:48 AM",84,TRUE,lemon,FALSE,"No Trainer",FALSE
+962,Female,1995-12-21,28,Standard,3,"Fri, Sat, Sun",FALSE,"No Favorite Lesson","01:28 PM","03:44 PM",136,TRUE,"berry_boost, black_currant",TRUE,Jeffrey,TRUE
+963,Male,2011-03-17,13,Premium,2,"Fri, Tue",TRUE,XCore,"09:23 AM","12:02 PM",159,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+964,Male,1981-04-27,43,Standard,3,"Fri, Sun, Tue",FALSE,"No Favorite Lesson","06:37 PM","08:15 PM",98,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+965,Male,2009-11-01,14,Standard,1,Mon,TRUE,"Yoga, BodyBalance, XCore","11:56 AM","01:37 PM",101,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+966,Male,1988-02-23,36,Premium,2,"Sat, Wed",FALSE,"No Favorite Lesson","04:49 PM","07:10 PM",141,FALSE,"No Favorite Drink",TRUE,Hanna,TRUE
+967,Female,1998-03-25,26,Standard,1,Mon,TRUE,XCore,"11:42 AM","01:39 PM",117,FALSE,"No Favorite Drink",TRUE,Jeffrey,FALSE
+968,Female,2011-05-25,13,Standard,3,"Mon, Tue, Wed",FALSE,"No Favorite Lesson","01:36 PM","02:08 PM",32,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+969,Male,1998-11-12,25,Standard,1,Fri,FALSE,"No Favorite Lesson","03:33 PM","06:00 PM",147,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+970,Male,1978-05-19,46,Premium,2,"Thu, Tue",FALSE,"No Favorite Lesson","08:22 AM","10:52 AM",150,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+971,Female,2002-01-24,22,Premium,3,"Fri, Mon, Tue",TRUE,"HIT, Running, Spinning","04:37 PM","05:48 PM",71,TRUE,berry_boost,FALSE,"No Trainer",TRUE
+972,Male,1993-11-21,30,Premium,3,"Fri, Sat, Thu",TRUE,"Yoga, BodyPump, Kickboxen","02:44 PM","04:00 PM",76,TRUE,coconut_pineapple,TRUE,Hanna,TRUE
+973,Male,1991-03-18,33,Standard,1,Wed,TRUE,BodyPump,"04:41 PM","06:29 PM",108,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+974,Female,1995-11-13,28,Premium,4,"Fri, Mon, Tue, Wed",TRUE,Spinning,"11:10 AM","01:56 PM",166,FALSE,"No Favorite Drink",TRUE,Mike,TRUE
+975,Male,1976-10-08,48,Standard,3,"Fri, Sun, Wed",FALSE,"No Favorite Lesson","11:07 AM","12:43 PM",96,TRUE,"berry_boost, coconut_pineapple",TRUE,Hanna,TRUE
+976,Female,2008-10-13,16,Premium,5,"Fri, Mon, Thu, Tue, Wed",FALSE,"No Favorite Lesson","04:39 PM","06:30 PM",111,TRUE,orange,FALSE,"No Trainer",FALSE
+977,Male,1988-11-28,35,Standard,3,"Mon, Sat, Thu",TRUE,BodyPump,"10:36 AM","11:46 AM",70,TRUE,"orange, berry_boost",TRUE,Mike,TRUE
+978,Male,2000-10-06,24,Standard,3,"Fri, Sat, Tue",FALSE,"No Favorite Lesson","07:00 PM","09:19 PM",139,TRUE,coconut_pineapple,FALSE,"No Trainer",FALSE
+979,Male,2008-05-02,16,Premium,3,"Sat, Sun, Wed",TRUE,"LesMiles, Running, HIT","01:30 PM","02:20 PM",50,TRUE,lemon,FALSE,"No Trainer",TRUE
+980,Male,1992-05-18,32,Standard,3,"Fri, Tue, Wed",TRUE,Kickboxen,"05:47 PM","07:28 PM",101,FALSE,"No Favorite Drink",FALSE,"No Trainer",TRUE
+981,Female,1992-01-22,32,Standard,3,"Fri, Sun, Wed",TRUE,"XCore, Kickboxen, Zumba","02:52 PM","05:32 PM",160,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+982,Female,2003-08-21,21,Standard,2,"Fri, Thu",TRUE,"Spinning, Zumba, XCore","07:59 PM","08:43 PM",44,FALSE,"No Favorite Drink",TRUE,Mike,FALSE
+983,Male,1988-03-02,36,Premium,4,"Fri, Mon, Tue, Wed",TRUE,Pilates,"07:22 PM","10:13 PM",171,TRUE,berry_boost,TRUE,Mike,FALSE
+984,Male,1987-10-03,37,Standard,1,Fri,TRUE,"LesMiles, Zumba","04:04 PM","06:16 PM",132,TRUE,black_currant,TRUE,Mike,TRUE
+985,Female,1975-10-12,49,Premium,1,Fri,TRUE,"Pilates, Kickboxen, BodyBalance","03:17 PM","05:00 PM",103,TRUE,coconut_pineapple,FALSE,"No Trainer",FALSE
+986,Male,1981-12-16,42,Standard,1,Mon,TRUE,HIT,"02:05 PM","03:38 PM",93,TRUE,"lemon, black_currant",TRUE,Hanna,TRUE
+987,Female,1979-03-14,45,Premium,5,"Fri, Mon, Sun, Thu, Wed",FALSE,"No Favorite Lesson","07:04 PM","08:44 PM",100,TRUE,orange,TRUE,Chantal,TRUE
+988,Male,1977-07-29,47,Premium,3,"Mon, Sun, Tue",FALSE,"No Favorite Lesson","10:48 AM","12:33 PM",105,TRUE,"black_currant, lemon",FALSE,"No Trainer",TRUE
+989,Female,1990-01-29,34,Standard,1,Sun,TRUE,"LesMiles, Zumba, Spinning","09:14 AM","11:52 AM",158,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+990,Male,1997-10-07,27,Premium,3,"Sat, Thu, Wed",FALSE,"No Favorite Lesson","11:50 AM","12:54 PM",64,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+991,Female,1981-04-01,43,Standard,3,"Mon, Sun, Thu",FALSE,"No Favorite Lesson","08:22 AM","10:40 AM",138,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+992,Male,1991-08-12,33,Premium,3,"Fri, Sat, Tue",TRUE,Kickboxen,"10:24 AM","12:48 PM",144,FALSE,"No Favorite Drink",TRUE,Chantal,FALSE
+993,Female,1985-10-02,39,Standard,5,"Mon, Sat, Sun, Tue, Wed",TRUE,"Running, BodyBalance","09:42 AM","12:23 PM",161,TRUE,lemon,TRUE,Chantal,FALSE
+994,Male,2007-01-29,17,Standard,4,"Mon, Sun, Thu, Tue",TRUE,"LesMiles, BodyPump","07:50 PM","10:43 PM",173,TRUE,"coconut_pineapple, passion_fruit",TRUE,Hanna,FALSE
+995,Female,1988-03-23,36,Standard,2,"Mon, Tue",FALSE,"No Favorite Lesson","10:16 AM","01:07 PM",171,TRUE,"berry_boost, black_currant",FALSE,"No Trainer",TRUE
+996,Female,1984-09-22,40,Standard,3,"Thu, Tue, Wed",FALSE,"No Favorite Lesson","08:56 PM","10:42 PM",106,FALSE,"No Favorite Drink",FALSE,"No Trainer",FALSE
+997,Female,2008-11-19,15,Standard,3,"Fri, Mon, Sun",TRUE,"XCore, Zumba","09:14 AM","11:28 AM",134,TRUE,"orange, lemon",FALSE,"No Trainer",TRUE
+998,Male,1984-10-05,40,Standard,2,"Fri, Tue",FALSE,"No Favorite Lesson","05:21 PM","07:53 PM",152,TRUE,"coconut_pineapple, black_currant",TRUE,Jeffrey,TRUE
+999,Male,2001-02-22,23,Standard,4,"Mon, Sun, Thu, Tue",TRUE,"HIT, XCore","10:23 AM","12:29 PM",126,TRUE,berry_boost,TRUE,Jeffrey,FALSE
+1000,Female,2006-05-07,18,Premium,2,"Thu, Tue",FALSE,"No Favorite Lesson","04:41 PM","07:00 PM",139,TRUE,"passion_fruit, coconut_pineapple",FALSE,"No Trainer",FALSE
